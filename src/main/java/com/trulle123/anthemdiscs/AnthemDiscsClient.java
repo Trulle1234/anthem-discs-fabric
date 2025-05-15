@@ -2,12 +2,9 @@ package com.trulle123.anthemdiscs;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class AnthemDiscsClient implements ClientModInitializer{
-
+public class AnthemDiscsClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'onInitializeClient'");
+        // Put your client-side initialization code here, or leave empty if not needed
     }
-    
 }
