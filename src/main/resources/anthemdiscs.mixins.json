@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.trulle123.anthemdiscs.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
