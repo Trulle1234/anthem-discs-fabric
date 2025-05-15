@@ -3,16 +3,16 @@
 	"id": "anthemdiscs",
 	"version": "${version}",
 	"name": "Anthem Discs",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Anthem Discs is a mod that adds national anthems as music discs.",
 	"authors": [
-		"Me!"
+		"Trulle123"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/anthemdiscs/icon.png",
+	"license": "MIT",
+	"icon": "assets/anthemdiscs/anthem_discs_logo.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"com.trulle123.anthemdiscs.AnthemDiscsDataGenerator"
+		],
+		"client": [
+			"com.trulle123.anthemdiscs.AnthemDiscsClient"
 		]
 	},
 	"mixins": [
