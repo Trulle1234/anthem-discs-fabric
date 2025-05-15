@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Trulle1234/anthem-discs-fabric-1.21.2"
 	},
 	"license": "MIT",
 	"icon": "assets/anthemdiscs/anthem_discs_logo.png",
