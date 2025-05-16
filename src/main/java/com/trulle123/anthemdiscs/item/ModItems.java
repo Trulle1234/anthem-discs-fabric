@@ -13,7 +13,7 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item MUSIC_DISC_EMPTY = registerItem(
         "music_disc_empty",
-        new Item.Settings()
+        new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
     );
 
     private static Item registerItem(String name, Item.Settings settings) {
