@@ -1,3 +1,7 @@
 {
-    "item.anthemdiscs.music_disc_empty": "Empty Music Disc"
+    "item.anthemdiscs.music_disc_empty": "Empty Music Disc",
+
+    "item.anthemdiscs.music_disc_albania": "Music Disc",
+    "item.anthemdiscs.music_disc_albania.desc": "National Anthem - Albania"
+
 }

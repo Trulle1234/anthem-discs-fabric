@@ -4,5 +4,14 @@
         "sounds": [
             "i_am_steve"
         ]
+    },
+
+    "albania": {
+        "sounds": [
+            {
+            "name": "albania",
+            "stream": true
+            }
+        ]
     }
 }

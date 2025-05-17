@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.anthemdiscs.music_disc_albania.desc"
+  },
+  "length_in_seconds": 54.0,
+  "sound_event": "tutorialmod:albania"
+}

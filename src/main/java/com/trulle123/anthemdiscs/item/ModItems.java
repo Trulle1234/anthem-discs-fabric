@@ -1,6 +1,8 @@
 package com.trulle123.anthemdiscs.item;
 
 import com.trulle123.anthemdiscs.AnthemDiscs;
+import com.trulle123.anthemdiscs.sound.ModSounds;
+
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registry;
@@ -14,6 +16,12 @@ public class ModItems {
     public static final Item MUSIC_DISC_EMPTY = registerItem(
         "music_disc_empty",
         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+    );
+
+        public static final Item MUSIC_DISC_ALBANIA = registerItem(
+        "music_disc_albania",
+        new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+        .jukeboxPlayable(ModSounds.ALBANIA_KEY).maxCount(1)
     );
 
     private static Item registerItem(String name, Item.Settings settings) {
