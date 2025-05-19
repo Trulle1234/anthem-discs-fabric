@@ -1,17 +1,21 @@
 {
-    "i_am_steve": {
-        "subtitle": "sounds.anthemdiscs.i_am_steve",
-        "sounds": [
-            "i_am_steve"
-        ]
-    },
+  "i_am_steve": {
+    "subtitle": "item.record.i_am_steve",
+    "sounds": [
+      {
+        "name": "anthemdiscs:i_am_steve",
+        "stream": false
+      }
+    ]
+  },
 
-    "albania": {
-        "sounds": [
-            {
-            "name": "albania",
-            "stream": true
-            }
-        ]
-    }
+  "albania": {
+    "subtitle": "item.record.albania",
+    "sounds": [
+      {
+        "name": "anthemdiscs:albania",
+        "stream": true
+      }
+    ]
+  }
 }
