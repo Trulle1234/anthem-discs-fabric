@@ -1,6 +1,6 @@
 {
   "i_am_steve": {
-    "subtitle": "item.record.i_am_steve",
+    "subtitle": "I AM STEVE!",
     "sounds": [
       {
         "name": "anthemdiscs:i_am_steve",
@@ -10,7 +10,6 @@
   },
 
   "albania": {
-    "subtitle": "item.record.albania",
     "sounds": [
       {
         "name": "anthemdiscs:albania",
