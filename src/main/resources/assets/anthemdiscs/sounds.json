@@ -9,12 +9,504 @@
     ]
   },
 
-  "albania": {
-    "sounds": [
-      {
-        "name": "anthemdiscs:albania",
-        "stream": true
+
+      "albania": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:albania",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "andorra": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:andorra",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "armenia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:armenia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "austria": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:austria",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "azerbaijan": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:azerbaijan",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "belarus": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:belarus",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "belgium": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:belgium",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "bosnia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:bosnia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "bulgaria": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:bulgaria",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "croatia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:croatia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "czechia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:czechia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "denmark": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:denmark",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "finland": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:finland",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "france": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:france",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "georgia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:georgia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "germany": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:germany",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "gibraltar": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:gibraltar",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "greece": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:greece",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "guernsey": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:guernsey",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "hungary": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:hungary",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "iceland": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:iceland",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "ireland": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:ireland",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "isle_of_man": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:isle_of_man",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "italy": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:italy",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "jersey": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:jersey",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "latvia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:latvia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "lithuania": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:lithuania",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "luxembourg": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:luxembourg",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "macedonia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:macedonia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "malta": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:malta",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "moldova": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:moldova",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "monaco": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:monaco",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "montenegro": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:montenegro",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "netherlands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:netherlands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "norway": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:norway",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "poland": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:poland",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "portugal": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:portugal",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "romania": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:romania",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "russia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:russia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "san_marino": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:san_marino",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "serbia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:serbia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "slovakia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:slovakia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "slovenia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:slovenia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "spain": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:spain",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "sweden": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:sweden",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "switzerland": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:switzerland",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "turkey": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:turkey",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "uk": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:uk",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "ukraine": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:ukraine",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "vatican": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:vatican",
+            "stream": true
+          }
+        ]
       }
-    ]
-  }
+
 }

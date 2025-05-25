@@ -1,7 +1,206 @@
 {
     "item.anthemdiscs.music_disc_empty": "Empty Music Disc",
 
+
     "item.anthemdiscs.music_disc_albania": "Music Disc",
-    "item.anthemdiscs.music_disc_albania.desc": "National Anthem - Albania"
+    "item.anthemdiscs.music_disc_albania.desc": "National Anthem - Albania",
+
+
+    "item.anthemdiscs.music_disc_andorra": "Music Disc",
+    "item.anthemdiscs.music_disc_andorra.desc": "National Anthem - Andorra",
+
+
+    "item.anthemdiscs.music_disc_armenia": "Music Disc",
+    "item.anthemdiscs.music_disc_armenia.desc": "National Anthem - Armenia",
+
+
+    "item.anthemdiscs.music_disc_austria": "Music Disc",
+    "item.anthemdiscs.music_disc_austria.desc": "National Anthem - Austria",
+
+
+    "item.anthemdiscs.music_disc_azerbaijan": "Music Disc",
+    "item.anthemdiscs.music_disc_azerbaijan.desc": "National Anthem - Azerbaijan",
+
+
+    "item.anthemdiscs.music_disc_belarus": "Music Disc",
+    "item.anthemdiscs.music_disc_belarus.desc": "National Anthem - Belarus",
+
+
+    "item.anthemdiscs.music_disc_belgium": "Music Disc",
+    "item.anthemdiscs.music_disc_belgium.desc": "National Anthem - Belgium",
+
+
+    "item.anthemdiscs.music_disc_bosnia": "Music Disc",
+    "item.anthemdiscs.music_disc_bosnia.desc": "National Anthem - Bosnia",
+
+
+    "item.anthemdiscs.music_disc_bulgaria": "Music Disc",
+    "item.anthemdiscs.music_disc_bulgaria.desc": "National Anthem - Bulgaria",
+
+
+    "item.anthemdiscs.music_disc_croatia": "Music Disc",
+    "item.anthemdiscs.music_disc_croatia.desc": "National Anthem - Croatia",
+
+
+    "item.anthemdiscs.music_disc_czechia": "Music Disc",
+    "item.anthemdiscs.music_disc_czechia.desc": "National Anthem - Czechia",
+
+
+    "item.anthemdiscs.music_disc_denmark": "Music Disc",
+    "item.anthemdiscs.music_disc_denmark.desc": "National Anthem - Denmark",
+
+
+    "item.anthemdiscs.music_disc_finland": "Music Disc",
+    "item.anthemdiscs.music_disc_finland.desc": "National Anthem - Finland",
+
+
+    "item.anthemdiscs.music_disc_france": "Music Disc",
+    "item.anthemdiscs.music_disc_france.desc": "National Anthem - France",
+
+
+    "item.anthemdiscs.music_disc_georgia": "Music Disc",
+    "item.anthemdiscs.music_disc_georgia.desc": "National Anthem - Georgia",
+
+
+    "item.anthemdiscs.music_disc_germany": "Music Disc",
+    "item.anthemdiscs.music_disc_germany.desc": "National Anthem - Germany",
+
+
+    "item.anthemdiscs.music_disc_gibraltar": "Music Disc",
+    "item.anthemdiscs.music_disc_gibraltar.desc": "National Anthem - Gibraltar",
+
+
+    "item.anthemdiscs.music_disc_greece": "Music Disc",
+    "item.anthemdiscs.music_disc_greece.desc": "National Anthem - Greece",
+
+
+    "item.anthemdiscs.music_disc_guernsey": "Music Disc",
+    "item.anthemdiscs.music_disc_guernsey.desc": "National Anthem - Guernsey",
+
+
+    "item.anthemdiscs.music_disc_hungary": "Music Disc",
+    "item.anthemdiscs.music_disc_hungary.desc": "National Anthem - Hungary",
+
+
+    "item.anthemdiscs.music_disc_iceland": "Music Disc",
+    "item.anthemdiscs.music_disc_iceland.desc": "National Anthem - Iceland",
+
+
+    "item.anthemdiscs.music_disc_ireland": "Music Disc",
+    "item.anthemdiscs.music_disc_ireland.desc": "National Anthem - Ireland",
+
+
+    "item.anthemdiscs.music_disc_isle_of_man": "Music Disc",
+    "item.anthemdiscs.music_disc_isle_of_man.desc": "National Anthem - Isle_of_man",
+
+
+    "item.anthemdiscs.music_disc_italy": "Music Disc",
+    "item.anthemdiscs.music_disc_italy.desc": "National Anthem - Italy",
+
+
+    "item.anthemdiscs.music_disc_jersey": "Music Disc",
+    "item.anthemdiscs.music_disc_jersey.desc": "National Anthem - Jersey",
+
+
+    "item.anthemdiscs.music_disc_latvia": "Music Disc",
+    "item.anthemdiscs.music_disc_latvia.desc": "National Anthem - Latvia",
+
+
+    "item.anthemdiscs.music_disc_lithuania": "Music Disc",
+    "item.anthemdiscs.music_disc_lithuania.desc": "National Anthem - Lithuania",
+
+
+    "item.anthemdiscs.music_disc_luxembourg": "Music Disc",
+    "item.anthemdiscs.music_disc_luxembourg.desc": "National Anthem - Luxembourg",
+
+
+    "item.anthemdiscs.music_disc_macedonia": "Music Disc",
+    "item.anthemdiscs.music_disc_macedonia.desc": "National Anthem - Macedonia",
+
+
+    "item.anthemdiscs.music_disc_malta": "Music Disc",
+    "item.anthemdiscs.music_disc_malta.desc": "National Anthem - Malta",
+
+
+    "item.anthemdiscs.music_disc_moldova": "Music Disc",
+    "item.anthemdiscs.music_disc_moldova.desc": "National Anthem - Moldova",
+
+
+    "item.anthemdiscs.music_disc_monaco": "Music Disc",
+    "item.anthemdiscs.music_disc_monaco.desc": "National Anthem - Monaco",
+
+
+    "item.anthemdiscs.music_disc_montenegro": "Music Disc",
+    "item.anthemdiscs.music_disc_montenegro.desc": "National Anthem - Montenegro",
+
+
+    "item.anthemdiscs.music_disc_netherlands": "Music Disc",
+    "item.anthemdiscs.music_disc_netherlands.desc": "National Anthem - Netherlands",
+
+
+    "item.anthemdiscs.music_disc_norway": "Music Disc",
+    "item.anthemdiscs.music_disc_norway.desc": "National Anthem - Norway",
+
+
+    "item.anthemdiscs.music_disc_poland": "Music Disc",
+    "item.anthemdiscs.music_disc_poland.desc": "National Anthem - Poland",
+
+
+    "item.anthemdiscs.music_disc_portugal": "Music Disc",
+    "item.anthemdiscs.music_disc_portugal.desc": "National Anthem - Portugal",
+
+
+    "item.anthemdiscs.music_disc_romania": "Music Disc",
+    "item.anthemdiscs.music_disc_romania.desc": "National Anthem - Romania",
+
+
+    "item.anthemdiscs.music_disc_russia": "Music Disc",
+    "item.anthemdiscs.music_disc_russia.desc": "National Anthem - Russia",
+
+
+    "item.anthemdiscs.music_disc_san_marino": "Music Disc",
+    "item.anthemdiscs.music_disc_san_marino.desc": "National Anthem - San_marino",
+
+
+    "item.anthemdiscs.music_disc_serbia": "Music Disc",
+    "item.anthemdiscs.music_disc_serbia.desc": "National Anthem - Serbia",
+
+
+    "item.anthemdiscs.music_disc_slovakia": "Music Disc",
+    "item.anthemdiscs.music_disc_slovakia.desc": "National Anthem - Slovakia",
+
+
+    "item.anthemdiscs.music_disc_slovenia": "Music Disc",
+    "item.anthemdiscs.music_disc_slovenia.desc": "National Anthem - Slovenia",
+
+
+    "item.anthemdiscs.music_disc_spain": "Music Disc",
+    "item.anthemdiscs.music_disc_spain.desc": "National Anthem - Spain",
+
+
+    "item.anthemdiscs.music_disc_sweden": "Music Disc",
+    "item.anthemdiscs.music_disc_sweden.desc": "National Anthem - Sweden",
+
+
+    "item.anthemdiscs.music_disc_switzerland": "Music Disc",
+    "item.anthemdiscs.music_disc_switzerland.desc": "National Anthem - Switzerland",
+
+
+    "item.anthemdiscs.music_disc_turkey": "Music Disc",
+    "item.anthemdiscs.music_disc_turkey.desc": "National Anthem - Turkey",
+
+
+    "item.anthemdiscs.music_disc_uk": "Music Disc",
+    "item.anthemdiscs.music_disc_uk.desc": "National Anthem - Uk",
+
+
+    "item.anthemdiscs.music_disc_ukraine": "Music Disc",
+    "item.anthemdiscs.music_disc_ukraine.desc": "National Anthem - Ukraine",
+
+
+    "item.anthemdiscs.music_disc_vatican": "Music Disc",
+    "item.anthemdiscs.music_disc_vatican.desc": "National Anthem - Vatican",
+
+
 
 }
