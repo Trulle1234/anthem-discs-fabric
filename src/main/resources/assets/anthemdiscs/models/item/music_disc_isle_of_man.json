@@ -1,8 +1,6 @@
-
-    {
-      "parent": "minecraft:item/generated",
-      "textures": {
-        "layer0": "anthemdiscs:item/music_disc_isle_of_man"
-      }
-    }
-
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anthemdiscs:item/music_disc_isle_of_man"
+  }
+}

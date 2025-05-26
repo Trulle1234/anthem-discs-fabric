@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.trulle123.anthemdiscs.item.ModItemGroups;
 import com.trulle123.anthemdiscs.item.ModItems;
 import com.trulle123.anthemdiscs.sound.ModSounds;
 
@@ -14,6 +15,7 @@ public class AnthemDiscs implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
         ModItems.registerModItems();
 		ModSounds.registerSounds();
 	}
