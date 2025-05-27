@@ -1,15 +1,4 @@
 {
-  "i_am_steve": {
-    "subtitle": "I AM STEVE!",
-    "sounds": [
-      {
-        "name": "anthemdiscs:i_am_steve",
-        "stream": false
-      }
-    ]
-  },
-
-
       "albania": {
         "sounds": [
           {

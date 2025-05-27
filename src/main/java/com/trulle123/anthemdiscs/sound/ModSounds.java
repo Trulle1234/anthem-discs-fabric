@@ -12,9 +12,6 @@ import net.minecraft.util.Identifier;
 
 public class ModSounds {
 
-    public static final SoundEvent I_AM_STEVE = registerSoundEvent("i_am_steve");
-
-
     public static final SoundEvent ALBANIA = registerSoundEvent("albania");
     public static final RegistryKey<JukeboxSong> ALBANIA_KEY =
         RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "albania"));
