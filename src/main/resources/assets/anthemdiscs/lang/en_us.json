@@ -1,7 +1,7 @@
 {
     "item.anthemdiscs.music_disc_empty": "Empty Music Disc",
 
-    "itemgroup.anthemdiscs.europe_item_group": "Europe - National Anthems",
+    "itemgroup.anthemdiscs.europe_item_group": "Europe Anthems",
 
     "item.anthemdiscs.music_disc_albania": "Music Disc",
     "item.anthemdiscs.music_disc_albania.desc": "National Anthem - Albania",
@@ -32,7 +32,7 @@
 
 
     "item.anthemdiscs.music_disc_bosnia": "Music Disc",
-    "item.anthemdiscs.music_disc_bosnia.desc": "National Anthem - Bosnia",
+    "item.anthemdiscs.music_disc_bosnia.desc": "National Anthem - Bosnia and Herzegovina",
 
 
     "item.anthemdiscs.music_disc_bulgaria": "Music Disc",
@@ -92,7 +92,7 @@
 
 
     "item.anthemdiscs.music_disc_isle_of_man": "Music Disc",
-    "item.anthemdiscs.music_disc_isle_of_man.desc": "National Anthem - Isle of man",
+    "item.anthemdiscs.music_disc_isle_of_man.desc": "National Anthem - Isle of Man",
 
 
     "item.anthemdiscs.music_disc_italy": "Music Disc",
@@ -192,7 +192,7 @@
 
 
     "item.anthemdiscs.music_disc_uk": "Music Disc",
-    "item.anthemdiscs.music_disc_uk.desc": "National Anthem - Uk",
+    "item.anthemdiscs.music_disc_uk.desc": "National Anthem - United Kingdom",
 
 
     "item.anthemdiscs.music_disc_ukraine": "Music Disc",
@@ -200,6 +200,6 @@
 
 
     "item.anthemdiscs.music_disc_vatican": "Music Disc",
-    "item.anthemdiscs.music_disc_vatican.desc": "National Anthem - Vatican"
+    "item.anthemdiscs.music_disc_vatican.desc": "National Anthem - Vatican City"
 
 }
