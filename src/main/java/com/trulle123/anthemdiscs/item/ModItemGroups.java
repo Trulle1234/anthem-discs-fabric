@@ -121,6 +121,18 @@ public class ModItemGroups {
 
         })
         .build());
+        
+                public static final ItemGroup AFRICA_ITEM_GROUP = Registry.register(Registries.ITEM_GROUP, 
+        Identifier.of(AnthemDiscs.MOD_ID, "africa_item_group"), 
+        FabricItemGroup.builder()
+            .icon(() -> new ItemStack(ModItems.MUSIC_DISC_EMPTY))
+            .displayName(Text.translatable("itemgroup.anthemdiscs.africa_item_group"))
+            .entries((displayContext, entries) ->  {
+
+            
+                
+        })
+        .build());
 
     public static void registerItemGroups() {
         AnthemDiscs.LOGGER.info("Registering Mod Item Groups for " + AnthemDiscs.MOD_ID);
