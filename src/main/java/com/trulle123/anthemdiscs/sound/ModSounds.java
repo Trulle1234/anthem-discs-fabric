@@ -261,6 +261,281 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> VATICAN_KEY =
         RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "vatican"));
 
+    
+    public static final SoundEvent ALGERIA = registerSoundEvent("algeria");
+    public static final RegistryKey<JukeboxSong> ALGERIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "algeria"));
+
+
+    public static final SoundEvent ANGOLA = registerSoundEvent("angola");
+    public static final RegistryKey<JukeboxSong> ANGOLA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "angola"));
+
+
+    public static final SoundEvent BENIN = registerSoundEvent("benin");
+    public static final RegistryKey<JukeboxSong> BENIN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "benin"));
+
+
+    public static final SoundEvent BOTSWANA = registerSoundEvent("botswana");
+    public static final RegistryKey<JukeboxSong> BOTSWANA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "botswana"));
+
+
+    public static final SoundEvent BURKINA_FASO = registerSoundEvent("burkina_faso");
+    public static final RegistryKey<JukeboxSong> BURKINA_FASO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "burkina_faso"));
+
+
+    public static final SoundEvent BURUNDI = registerSoundEvent("burundi");
+    public static final RegistryKey<JukeboxSong> BURUNDI_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "burundi"));
+
+
+    public static final SoundEvent CAMEROON = registerSoundEvent("cameroon");
+    public static final RegistryKey<JukeboxSong> CAMEROON_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "cameroon"));
+
+
+    public static final SoundEvent CAPEVERDE = registerSoundEvent("capeverde");
+    public static final RegistryKey<JukeboxSong> CAPEVERDE_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "capeverde"));
+
+
+    public static final SoundEvent CENTRAL_AFRICAN_REPUBLIC = registerSoundEvent("central_african_republic");
+    public static final RegistryKey<JukeboxSong> CENTRAL_AFRICAN_REPUBLIC_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "central_african_republic"));
+
+
+    public static final SoundEvent CHAD = registerSoundEvent("chad");
+    public static final RegistryKey<JukeboxSong> CHAD_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "chad"));
+
+
+    public static final SoundEvent COMOROS = registerSoundEvent("comoros");
+    public static final RegistryKey<JukeboxSong> COMOROS_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "comoros"));
+
+
+    public static final SoundEvent CONGOREP = registerSoundEvent("congorep");
+    public static final RegistryKey<JukeboxSong> CONGOREP_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "congorep"));
+
+
+    public static final SoundEvent DEMOCRATIC_REPUBLIC_OF_THE_CONGO = registerSoundEvent("democratic_republic_of_the_congo");
+    public static final RegistryKey<JukeboxSong> DEMOCRATIC_REPUBLIC_OF_THE_CONGO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "democratic_republic_of_the_congo"));
+
+
+    public static final SoundEvent DJIBOUTI = registerSoundEvent("djibouti");
+    public static final RegistryKey<JukeboxSong> DJIBOUTI_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "djibouti"));
+
+
+    public static final SoundEvent EGYPT = registerSoundEvent("egypt");
+    public static final RegistryKey<JukeboxSong> EGYPT_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "egypt"));
+
+
+    public static final SoundEvent EQUATORIAL_GUINEA = registerSoundEvent("equatorial_guinea");
+    public static final RegistryKey<JukeboxSong> EQUATORIAL_GUINEA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "equatorial_guinea"));
+
+
+    public static final SoundEvent ERITREA = registerSoundEvent("eritrea");
+    public static final RegistryKey<JukeboxSong> ERITREA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "eritrea"));
+
+
+    public static final SoundEvent ESWATINI = registerSoundEvent("eswatini");
+    public static final RegistryKey<JukeboxSong> ESWATINI_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "eswatini"));
+
+
+    public static final SoundEvent ETHIOPIA = registerSoundEvent("ethiopia");
+    public static final RegistryKey<JukeboxSong> ETHIOPIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "ethiopia"));
+
+
+    public static final SoundEvent GABON = registerSoundEvent("gabon");
+    public static final RegistryKey<JukeboxSong> GABON_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "gabon"));
+
+
+    public static final SoundEvent GAMBIA = registerSoundEvent("gambia");
+    public static final RegistryKey<JukeboxSong> GAMBIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "gambia"));
+
+
+    public static final SoundEvent GHANA = registerSoundEvent("ghana");
+    public static final RegistryKey<JukeboxSong> GHANA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "ghana"));
+
+
+    public static final SoundEvent GUINEA = registerSoundEvent("guinea");
+    public static final RegistryKey<JukeboxSong> GUINEA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "guinea"));
+
+
+    public static final SoundEvent GUINEA_BISSAU = registerSoundEvent("guinea_bissau");
+    public static final RegistryKey<JukeboxSong> GUINEA_BISSAU_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "guinea_bissau"));
+
+
+    public static final SoundEvent IVORY_COAST = registerSoundEvent("ivory_coast");
+    public static final RegistryKey<JukeboxSong> IVORY_COAST_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "ivory_coast"));
+
+
+    public static final SoundEvent KENYA = registerSoundEvent("kenya");
+    public static final RegistryKey<JukeboxSong> KENYA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "kenya"));
+
+
+    public static final SoundEvent LESOTHO = registerSoundEvent("lesotho");
+    public static final RegistryKey<JukeboxSong> LESOTHO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "lesotho"));
+
+
+    public static final SoundEvent LIBERIA = registerSoundEvent("liberia");
+    public static final RegistryKey<JukeboxSong> LIBERIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "liberia"));
+
+
+    public static final SoundEvent LIBYA = registerSoundEvent("libya");
+    public static final RegistryKey<JukeboxSong> LIBYA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "libya"));
+
+
+    public static final SoundEvent MADAGASCAR = registerSoundEvent("madagascar");
+    public static final RegistryKey<JukeboxSong> MADAGASCAR_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "madagascar"));
+
+
+    public static final SoundEvent MALAWI = registerSoundEvent("malawi");
+    public static final RegistryKey<JukeboxSong> MALAWI_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "malawi"));
+
+
+    public static final SoundEvent MALI = registerSoundEvent("mali");
+    public static final RegistryKey<JukeboxSong> MALI_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "mali"));
+
+
+    public static final SoundEvent MAURITANIA = registerSoundEvent("mauritania");
+    public static final RegistryKey<JukeboxSong> MAURITANIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "mauritania"));
+
+
+    public static final SoundEvent MAURITIUS = registerSoundEvent("mauritius");
+    public static final RegistryKey<JukeboxSong> MAURITIUS_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "mauritius"));
+
+
+    public static final SoundEvent MOROCCO = registerSoundEvent("morocco");
+    public static final RegistryKey<JukeboxSong> MOROCCO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "morocco"));
+
+
+    public static final SoundEvent MOZAMBIQUE = registerSoundEvent("mozambique");
+    public static final RegistryKey<JukeboxSong> MOZAMBIQUE_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "mozambique"));
+
+
+    public static final SoundEvent NAMIBIA = registerSoundEvent("namibia");
+    public static final RegistryKey<JukeboxSong> NAMIBIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "namibia"));
+
+
+    public static final SoundEvent NIGER = registerSoundEvent("niger");
+    public static final RegistryKey<JukeboxSong> NIGER_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "niger"));
+
+
+    public static final SoundEvent NIGERIA = registerSoundEvent("nigeria");
+    public static final RegistryKey<JukeboxSong> NIGERIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "nigeria"));
+
+
+    public static final SoundEvent RWANDA = registerSoundEvent("rwanda");
+    public static final RegistryKey<JukeboxSong> RWANDA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "rwanda"));
+
+
+    public static final SoundEvent SAOTOME = registerSoundEvent("saotome");
+    public static final RegistryKey<JukeboxSong> SAOTOME_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "saotome"));
+
+
+    public static final SoundEvent SENEGAL = registerSoundEvent("senegal");
+    public static final RegistryKey<JukeboxSong> SENEGAL_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "senegal"));
+
+
+    public static final SoundEvent SEYCHELLES = registerSoundEvent("seychelles");
+    public static final RegistryKey<JukeboxSong> SEYCHELLES_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "seychelles"));
+
+
+    public static final SoundEvent SIERRA_LEONE = registerSoundEvent("sierra_leone");
+    public static final RegistryKey<JukeboxSong> SIERRA_LEONE_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "sierra_leone"));
+
+
+    public static final SoundEvent SOMALIA = registerSoundEvent("somalia");
+    public static final RegistryKey<JukeboxSong> SOMALIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "somalia"));
+
+
+    public static final SoundEvent SOUTH_AFRICA = registerSoundEvent("south_africa");
+    public static final RegistryKey<JukeboxSong> SOUTH_AFRICA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "south_africa"));
+
+
+    public static final SoundEvent SOUTH_SUDAN = registerSoundEvent("south_sudan");
+    public static final RegistryKey<JukeboxSong> SOUTH_SUDAN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "south_sudan"));
+
+
+    public static final SoundEvent STHELENA = registerSoundEvent("sthelena");
+    public static final RegistryKey<JukeboxSong> STHELENA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "sthelena"));
+
+
+    public static final SoundEvent SUDAN = registerSoundEvent("sudan");
+    public static final RegistryKey<JukeboxSong> SUDAN_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "sudan"));
+
+
+    public static final SoundEvent TANZANIA = registerSoundEvent("tanzania");
+    public static final RegistryKey<JukeboxSong> TANZANIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "tanzania"));
+
+
+    public static final SoundEvent TOGO = registerSoundEvent("togo");
+    public static final RegistryKey<JukeboxSong> TOGO_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "togo"));
+
+
+    public static final SoundEvent TUNISIA = registerSoundEvent("tunisia");
+    public static final RegistryKey<JukeboxSong> TUNISIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "tunisia"));
+
+
+    public static final SoundEvent UGANDA = registerSoundEvent("uganda");
+    public static final RegistryKey<JukeboxSong> UGANDA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "uganda"));
+
+
+    public static final SoundEvent ZAMBIA = registerSoundEvent("zambia");
+    public static final RegistryKey<JukeboxSong> ZAMBIA_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "zambia"));
+
+
+    public static final SoundEvent ZIMBABWE = registerSoundEvent("zimbabwe");
+    public static final RegistryKey<JukeboxSong> ZIMBABWE_KEY =
+        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "zimbabwe"));
+
 
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = Identifier.of(AnthemDiscs.MOD_ID, name);

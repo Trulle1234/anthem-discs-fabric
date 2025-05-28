@@ -200,6 +200,228 @@
 
 
     "item.anthemdiscs.music_disc_vatican": "Music Disc",
-    "item.anthemdiscs.music_disc_vatican.desc": "National Anthem - Vatican City"
+    "item.anthemdiscs.music_disc_vatican.desc": "National Anthem - Vatican City",
+
+
+    
+    "item.anthemdiscs.music_disc_algeria": "Music Disc",
+    "item.anthemdiscs.music_disc_algeria.desc": "National Anthem - Algeria",
+
+
+    "item.anthemdiscs.music_disc_angola": "Music Disc",
+    "item.anthemdiscs.music_disc_angola.desc": "National Anthem - Angola",
+
+
+    "item.anthemdiscs.music_disc_benin": "Music Disc",
+    "item.anthemdiscs.music_disc_benin.desc": "National Anthem - Benin",
+
+
+    "item.anthemdiscs.music_disc_botswana": "Music Disc",
+    "item.anthemdiscs.music_disc_botswana.desc": "National Anthem - Botswana",
+
+
+    "item.anthemdiscs.music_disc_burkina_faso": "Music Disc",
+    "item.anthemdiscs.music_disc_burkina_faso.desc": "National Anthem - Burkina_faso",
+
+
+    "item.anthemdiscs.music_disc_burundi": "Music Disc",
+    "item.anthemdiscs.music_disc_burundi.desc": "National Anthem - Burundi",
+
+
+    "item.anthemdiscs.music_disc_cameroon": "Music Disc",
+    "item.anthemdiscs.music_disc_cameroon.desc": "National Anthem - Cameroon",
+
+
+    "item.anthemdiscs.music_disc_capeverde": "Music Disc",
+    "item.anthemdiscs.music_disc_capeverde.desc": "National Anthem - Capeverde",
+
+
+    "item.anthemdiscs.music_disc_central_african_republic": "Music Disc",
+    "item.anthemdiscs.music_disc_central_african_republic.desc": "National Anthem - Central_african_republic",
+
+
+    "item.anthemdiscs.music_disc_chad": "Music Disc",
+    "item.anthemdiscs.music_disc_chad.desc": "National Anthem - Chad",
+
+
+    "item.anthemdiscs.music_disc_comoros": "Music Disc",
+    "item.anthemdiscs.music_disc_comoros.desc": "National Anthem - Comoros",
+
+
+    "item.anthemdiscs.music_disc_congorep": "Music Disc",
+    "item.anthemdiscs.music_disc_congorep.desc": "National Anthem - Congorep",
+
+
+    "item.anthemdiscs.music_disc_democratic_republic_of_the_congo": "Music Disc",
+    "item.anthemdiscs.music_disc_democratic_republic_of_the_congo.desc": "National Anthem - Democratic_republic_of_the_congo",
+
+
+    "item.anthemdiscs.music_disc_djibouti": "Music Disc",
+    "item.anthemdiscs.music_disc_djibouti.desc": "National Anthem - Djibouti",
+
+
+    "item.anthemdiscs.music_disc_egypt": "Music Disc",
+    "item.anthemdiscs.music_disc_egypt.desc": "National Anthem - Egypt",
+
+
+    "item.anthemdiscs.music_disc_equatorial_guinea": "Music Disc",
+    "item.anthemdiscs.music_disc_equatorial_guinea.desc": "National Anthem - Equatorial_guinea",
+
+
+    "item.anthemdiscs.music_disc_eritrea": "Music Disc",
+    "item.anthemdiscs.music_disc_eritrea.desc": "National Anthem - Eritrea",
+
+
+    "item.anthemdiscs.music_disc_eswatini": "Music Disc",
+    "item.anthemdiscs.music_disc_eswatini.desc": "National Anthem - Eswatini",
+
+
+    "item.anthemdiscs.music_disc_ethiopia": "Music Disc",
+    "item.anthemdiscs.music_disc_ethiopia.desc": "National Anthem - Ethiopia",
+
+
+    "item.anthemdiscs.music_disc_gabon": "Music Disc",
+    "item.anthemdiscs.music_disc_gabon.desc": "National Anthem - Gabon",
+
+
+    "item.anthemdiscs.music_disc_gambia": "Music Disc",
+    "item.anthemdiscs.music_disc_gambia.desc": "National Anthem - Gambia",
+
+
+    "item.anthemdiscs.music_disc_ghana": "Music Disc",
+    "item.anthemdiscs.music_disc_ghana.desc": "National Anthem - Ghana",
+
+
+    "item.anthemdiscs.music_disc_guinea": "Music Disc",
+    "item.anthemdiscs.music_disc_guinea.desc": "National Anthem - Guinea",
+
+
+    "item.anthemdiscs.music_disc_guinea_bissau": "Music Disc",
+    "item.anthemdiscs.music_disc_guinea_bissau.desc": "National Anthem - Guinea_bissau",
+
+
+    "item.anthemdiscs.music_disc_ivory_coast": "Music Disc",
+    "item.anthemdiscs.music_disc_ivory_coast.desc": "National Anthem - Ivory_coast",
+
+
+    "item.anthemdiscs.music_disc_kenya": "Music Disc",
+    "item.anthemdiscs.music_disc_kenya.desc": "National Anthem - Kenya",
+
+
+    "item.anthemdiscs.music_disc_lesotho": "Music Disc",
+    "item.anthemdiscs.music_disc_lesotho.desc": "National Anthem - Lesotho",
+
+
+    "item.anthemdiscs.music_disc_liberia": "Music Disc",
+    "item.anthemdiscs.music_disc_liberia.desc": "National Anthem - Liberia",
+
+
+    "item.anthemdiscs.music_disc_libya": "Music Disc",
+    "item.anthemdiscs.music_disc_libya.desc": "National Anthem - Libya",
+
+
+    "item.anthemdiscs.music_disc_madagascar": "Music Disc",
+    "item.anthemdiscs.music_disc_madagascar.desc": "National Anthem - Madagascar",
+
+
+    "item.anthemdiscs.music_disc_malawi": "Music Disc",
+    "item.anthemdiscs.music_disc_malawi.desc": "National Anthem - Malawi",
+
+
+    "item.anthemdiscs.music_disc_mali": "Music Disc",
+    "item.anthemdiscs.music_disc_mali.desc": "National Anthem - Mali",
+
+
+    "item.anthemdiscs.music_disc_mauritania": "Music Disc",
+    "item.anthemdiscs.music_disc_mauritania.desc": "National Anthem - Mauritania",
+
+
+    "item.anthemdiscs.music_disc_mauritius": "Music Disc",
+    "item.anthemdiscs.music_disc_mauritius.desc": "National Anthem - Mauritius",
+
+
+    "item.anthemdiscs.music_disc_morocco": "Music Disc",
+    "item.anthemdiscs.music_disc_morocco.desc": "National Anthem - Morocco",
+
+
+    "item.anthemdiscs.music_disc_mozambique": "Music Disc",
+    "item.anthemdiscs.music_disc_mozambique.desc": "National Anthem - Mozambique",
+
+
+    "item.anthemdiscs.music_disc_namibia": "Music Disc",
+    "item.anthemdiscs.music_disc_namibia.desc": "National Anthem - Namibia",
+
+
+    "item.anthemdiscs.music_disc_niger": "Music Disc",
+    "item.anthemdiscs.music_disc_niger.desc": "National Anthem - Niger",
+
+
+    "item.anthemdiscs.music_disc_nigeria": "Music Disc",
+    "item.anthemdiscs.music_disc_nigeria.desc": "National Anthem - Nigeria",
+
+
+    "item.anthemdiscs.music_disc_rwanda": "Music Disc",
+    "item.anthemdiscs.music_disc_rwanda.desc": "National Anthem - Rwanda",
+
+
+    "item.anthemdiscs.music_disc_saotome": "Music Disc",
+    "item.anthemdiscs.music_disc_saotome.desc": "National Anthem - Saotome",
+
+
+    "item.anthemdiscs.music_disc_senegal": "Music Disc",
+    "item.anthemdiscs.music_disc_senegal.desc": "National Anthem - Senegal",
+
+
+    "item.anthemdiscs.music_disc_seychelles": "Music Disc",
+    "item.anthemdiscs.music_disc_seychelles.desc": "National Anthem - Seychelles",
+
+
+    "item.anthemdiscs.music_disc_sierra_leone": "Music Disc",
+    "item.anthemdiscs.music_disc_sierra_leone.desc": "National Anthem - Sierra_leone",
+
+
+    "item.anthemdiscs.music_disc_somalia": "Music Disc",
+    "item.anthemdiscs.music_disc_somalia.desc": "National Anthem - Somalia",
+
+
+    "item.anthemdiscs.music_disc_south_africa": "Music Disc",
+    "item.anthemdiscs.music_disc_south_africa.desc": "National Anthem - South_africa",
+
+
+    "item.anthemdiscs.music_disc_south_sudan": "Music Disc",
+    "item.anthemdiscs.music_disc_south_sudan.desc": "National Anthem - South_sudan",
+
+
+    "item.anthemdiscs.music_disc_sthelena": "Music Disc",
+    "item.anthemdiscs.music_disc_sthelena.desc": "National Anthem - Sthelena",
+
+
+    "item.anthemdiscs.music_disc_sudan": "Music Disc",
+    "item.anthemdiscs.music_disc_sudan.desc": "National Anthem - Sudan",
+
+
+    "item.anthemdiscs.music_disc_tanzania": "Music Disc",
+    "item.anthemdiscs.music_disc_tanzania.desc": "National Anthem - Tanzania",
+
+
+    "item.anthemdiscs.music_disc_togo": "Music Disc",
+    "item.anthemdiscs.music_disc_togo.desc": "National Anthem - Togo",
+
+
+    "item.anthemdiscs.music_disc_tunisia": "Music Disc",
+    "item.anthemdiscs.music_disc_tunisia.desc": "National Anthem - Tunisia",
+
+
+    "item.anthemdiscs.music_disc_uganda": "Music Disc",
+    "item.anthemdiscs.music_disc_uganda.desc": "National Anthem - Uganda",
+
+
+    "item.anthemdiscs.music_disc_zambia": "Music Disc",
+    "item.anthemdiscs.music_disc_zambia.desc": "National Anthem - Zambia",
+
+
+    "item.anthemdiscs.music_disc_zimbabwe": "Music Disc",
+    "item.anthemdiscs.music_disc_zimbabwe.desc": "National Anthem - Zimbabwe"
+
 
 }

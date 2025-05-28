@@ -128,8 +128,116 @@ public class ModItemGroups {
             .icon(() -> new ItemStack(ModItems.MUSIC_DISC_EMPTY))
             .displayName(Text.translatable("itemgroup.anthemdiscs.africa_item_group"))
             .entries((displayContext, entries) ->  {
-
             
+            entries.add(ModItems.MUSIC_DISC_ALGERIA);    
+
+            entries.add(ModItems.MUSIC_DISC_ANGOLA);    
+
+            entries.add(ModItems.MUSIC_DISC_BENIN);    
+
+            entries.add(ModItems.MUSIC_DISC_BOTSWANA);    
+
+            entries.add(ModItems.MUSIC_DISC_BURKINA_FASO);    
+
+            entries.add(ModItems.MUSIC_DISC_BURUNDI);    
+
+            entries.add(ModItems.MUSIC_DISC_CAMEROON);    
+
+            entries.add(ModItems.MUSIC_DISC_CAPEVERDE);    
+
+            entries.add(ModItems.MUSIC_DISC_CENTRAL_AFRICAN_REPUBLIC);    
+
+            entries.add(ModItems.MUSIC_DISC_CHAD);    
+
+            entries.add(ModItems.MUSIC_DISC_COMOROS);    
+
+            entries.add(ModItems.MUSIC_DISC_CONGOREP);    
+
+            entries.add(ModItems.MUSIC_DISC_DEMOCRATIC_REPUBLIC_OF_THE_CONGO);    
+
+            entries.add(ModItems.MUSIC_DISC_DJIBOUTI);    
+
+            entries.add(ModItems.MUSIC_DISC_EGYPT);    
+
+            entries.add(ModItems.MUSIC_DISC_EQUATORIAL_GUINEA);    
+
+            entries.add(ModItems.MUSIC_DISC_ERITREA);    
+
+            entries.add(ModItems.MUSIC_DISC_ESWATINI);    
+
+            entries.add(ModItems.MUSIC_DISC_ETHIOPIA);    
+
+            entries.add(ModItems.MUSIC_DISC_GABON);    
+
+            entries.add(ModItems.MUSIC_DISC_GAMBIA);    
+
+            entries.add(ModItems.MUSIC_DISC_GHANA);    
+
+            entries.add(ModItems.MUSIC_DISC_GUINEA);    
+
+            entries.add(ModItems.MUSIC_DISC_GUINEA_BISSAU);    
+
+            entries.add(ModItems.MUSIC_DISC_IVORY_COAST);    
+
+            entries.add(ModItems.MUSIC_DISC_KENYA);    
+
+            entries.add(ModItems.MUSIC_DISC_LESOTHO);    
+
+            entries.add(ModItems.MUSIC_DISC_LIBERIA);    
+
+            entries.add(ModItems.MUSIC_DISC_LIBYA);    
+
+            entries.add(ModItems.MUSIC_DISC_MADAGASCAR);    
+
+            entries.add(ModItems.MUSIC_DISC_MALAWI);    
+
+            entries.add(ModItems.MUSIC_DISC_MALI);    
+
+            entries.add(ModItems.MUSIC_DISC_MAURITANIA);    
+
+            entries.add(ModItems.MUSIC_DISC_MAURITIUS);    
+
+            entries.add(ModItems.MUSIC_DISC_MOROCCO);    
+
+            entries.add(ModItems.MUSIC_DISC_MOZAMBIQUE);    
+
+            entries.add(ModItems.MUSIC_DISC_NAMIBIA);    
+
+            entries.add(ModItems.MUSIC_DISC_NIGER);    
+
+            entries.add(ModItems.MUSIC_DISC_NIGERIA);    
+
+            entries.add(ModItems.MUSIC_DISC_RWANDA);    
+
+            entries.add(ModItems.MUSIC_DISC_SAOTOME);    
+
+            entries.add(ModItems.MUSIC_DISC_SENEGAL);    
+
+            entries.add(ModItems.MUSIC_DISC_SEYCHELLES);    
+
+            entries.add(ModItems.MUSIC_DISC_SIERRA_LEONE);    
+
+            entries.add(ModItems.MUSIC_DISC_SOMALIA);    
+
+            entries.add(ModItems.MUSIC_DISC_SOUTH_AFRICA);    
+
+            entries.add(ModItems.MUSIC_DISC_SOUTH_SUDAN);    
+
+            entries.add(ModItems.MUSIC_DISC_STHELENA);    
+
+            entries.add(ModItems.MUSIC_DISC_SUDAN);    
+
+            entries.add(ModItems.MUSIC_DISC_TANZANIA);    
+
+            entries.add(ModItems.MUSIC_DISC_TOGO);    
+
+            entries.add(ModItems.MUSIC_DISC_TUNISIA);    
+
+            entries.add(ModItems.MUSIC_DISC_UGANDA);    
+
+            entries.add(ModItems.MUSIC_DISC_ZAMBIA);    
+
+            entries.add(ModItems.MUSIC_DISC_ZIMBABWE);    
                 
         })
         .build());

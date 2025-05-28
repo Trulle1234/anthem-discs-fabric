@@ -496,6 +496,556 @@
             "stream": true
           }
         ]
+      },
+
+      
+      "algeria": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:algeria",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "angola": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:angola",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "benin": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:benin",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "botswana": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:botswana",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "burkina_faso": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:burkina_faso",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "burundi": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:burundi",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "cameroon": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:cameroon",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "capeverde": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:capeverde",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "central_african_republic": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:central_african_republic",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "chad": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:chad",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "comoros": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:comoros",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "congorep": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:congorep",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "democratic_republic_of_the_congo": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:democratic_republic_of_the_congo",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "djibouti": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:djibouti",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "egypt": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:egypt",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "equatorial_guinea": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:equatorial_guinea",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "eritrea": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:eritrea",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "eswatini": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:eswatini",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "ethiopia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:ethiopia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "gabon": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:gabon",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "gambia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:gambia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "ghana": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:ghana",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "guinea": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:guinea",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "guinea_bissau": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:guinea_bissau",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "ivory_coast": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:ivory_coast",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "kenya": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:kenya",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "lesotho": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:lesotho",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "liberia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:liberia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "libya": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:libya",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "madagascar": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:madagascar",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "malawi": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:malawi",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "mali": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:mali",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "mauritania": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:mauritania",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "mauritius": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:mauritius",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "morocco": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:morocco",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "mozambique": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:mozambique",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "namibia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:namibia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "niger": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:niger",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "nigeria": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:nigeria",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "rwanda": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:rwanda",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "saotome": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:saotome",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "senegal": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:senegal",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "seychelles": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:seychelles",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "sierra_leone": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:sierra_leone",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "somalia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:somalia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "south_africa": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:south_africa",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "south_sudan": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:south_sudan",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "sthelena": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:sthelena",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "sudan": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:sudan",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "tanzania": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:tanzania",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "togo": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:togo",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "tunisia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:tunisia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "uganda": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:uganda",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "zambia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:zambia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "zimbabwe": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:zimbabwe",
+            "stream": true
+          }
+        ]
       }
 
 }
