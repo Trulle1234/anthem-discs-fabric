@@ -3,6 +3,8 @@
 
     "itemgroup.anthemdiscs.europe_item_group": "Europe Anthems",
 
+    "itemgroup.anthemdiscs.africa_item_group": "Africa Anthems",
+
     "item.anthemdiscs.music_disc_albania": "Music Disc",
     "item.anthemdiscs.music_disc_albania.desc": "National Anthem - Albania",
 
@@ -203,7 +205,7 @@
     "item.anthemdiscs.music_disc_vatican.desc": "National Anthem - Vatican City",
 
 
-    
+
     "item.anthemdiscs.music_disc_algeria": "Music Disc",
     "item.anthemdiscs.music_disc_algeria.desc": "National Anthem - Algeria",
 
@@ -221,7 +223,7 @@
 
 
     "item.anthemdiscs.music_disc_burkina_faso": "Music Disc",
-    "item.anthemdiscs.music_disc_burkina_faso.desc": "National Anthem - Burkina_faso",
+    "item.anthemdiscs.music_disc_burkina_faso.desc": "National Anthem - Burkina Faso",
 
 
     "item.anthemdiscs.music_disc_burundi": "Music Disc",
@@ -233,11 +235,11 @@
 
 
     "item.anthemdiscs.music_disc_capeverde": "Music Disc",
-    "item.anthemdiscs.music_disc_capeverde.desc": "National Anthem - Capeverde",
+    "item.anthemdiscs.music_disc_capeverde.desc": "National Anthem - Cape Verde",
 
 
     "item.anthemdiscs.music_disc_central_african_republic": "Music Disc",
-    "item.anthemdiscs.music_disc_central_african_republic.desc": "National Anthem - Central_african_republic",
+    "item.anthemdiscs.music_disc_central_african_republic.desc": "National Anthem - Central African Republic",
 
 
     "item.anthemdiscs.music_disc_chad": "Music Disc",
@@ -249,11 +251,11 @@
 
 
     "item.anthemdiscs.music_disc_congorep": "Music Disc",
-    "item.anthemdiscs.music_disc_congorep.desc": "National Anthem - Congorep",
+    "item.anthemdiscs.music_disc_congorep.desc": "National Anthem - Congo-Brazzaville",
 
 
     "item.anthemdiscs.music_disc_democratic_republic_of_the_congo": "Music Disc",
-    "item.anthemdiscs.music_disc_democratic_republic_of_the_congo.desc": "National Anthem - Democratic_republic_of_the_congo",
+    "item.anthemdiscs.music_disc_democratic_republic_of_the_congo.desc": "National Anthem - Congo-Kinshasa",
 
 
     "item.anthemdiscs.music_disc_djibouti": "Music Disc",
@@ -265,7 +267,7 @@
 
 
     "item.anthemdiscs.music_disc_equatorial_guinea": "Music Disc",
-    "item.anthemdiscs.music_disc_equatorial_guinea.desc": "National Anthem - Equatorial_guinea",
+    "item.anthemdiscs.music_disc_equatorial_guinea.desc": "National Anthem - Equatorial Guinea",
 
 
     "item.anthemdiscs.music_disc_eritrea": "Music Disc",
@@ -297,11 +299,11 @@
 
 
     "item.anthemdiscs.music_disc_guinea_bissau": "Music Disc",
-    "item.anthemdiscs.music_disc_guinea_bissau.desc": "National Anthem - Guinea_bissau",
+    "item.anthemdiscs.music_disc_guinea_bissau.desc": "National Anthem - Guinea Bissau",
 
 
     "item.anthemdiscs.music_disc_ivory_coast": "Music Disc",
-    "item.anthemdiscs.music_disc_ivory_coast.desc": "National Anthem - Ivory_coast",
+    "item.anthemdiscs.music_disc_ivory_coast.desc": "National Anthem - Ivory Coast",
 
 
     "item.anthemdiscs.music_disc_kenya": "Music Disc",
@@ -377,7 +379,7 @@
 
 
     "item.anthemdiscs.music_disc_sierra_leone": "Music Disc",
-    "item.anthemdiscs.music_disc_sierra_leone.desc": "National Anthem - Sierra_leone",
+    "item.anthemdiscs.music_disc_sierra_leone.desc": "National Anthem - Sierra Leone",
 
 
     "item.anthemdiscs.music_disc_somalia": "Music Disc",
@@ -385,11 +387,11 @@
 
 
     "item.anthemdiscs.music_disc_south_africa": "Music Disc",
-    "item.anthemdiscs.music_disc_south_africa.desc": "National Anthem - South_africa",
+    "item.anthemdiscs.music_disc_south_africa.desc": "National Anthem - South Africa",
 
 
     "item.anthemdiscs.music_disc_south_sudan": "Music Disc",
-    "item.anthemdiscs.music_disc_south_sudan.desc": "National Anthem - South_sudan",
+    "item.anthemdiscs.music_disc_south_sudan.desc": "National Anthem - South Sudan",
 
 
     "item.anthemdiscs.music_disc_sthelena": "Music Disc",
@@ -422,6 +424,5 @@
 
     "item.anthemdiscs.music_disc_zimbabwe": "Music Disc",
     "item.anthemdiscs.music_disc_zimbabwe.desc": "National Anthem - Zimbabwe"
-
 
 }

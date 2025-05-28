@@ -1,0 +1,10 @@
+
+    {
+      "comparator_output": 5,
+      "description": {
+        "translate": "item.anthemdiscs.music_disc_congorep.desc"
+      },
+      "length_in_seconds": 95.28308390022676,
+      "sound_event": "anthemdiscs:congorep"
+    }
+    
