@@ -1,0 +1,10 @@
+
+    {
+      "comparator_output": 5,
+      "description": {
+        "translate": "item.anthemdiscs.music_disc_st_vincent.desc"
+      },
+      "length_in_seconds": 65.22485260770975,
+      "sound_event": "anthemdiscs:st_vincent"
+    }
+    

@@ -1,0 +1,10 @@
+
+    {
+      "comparator_output": 5,
+      "description": {
+        "translate": "item.anthemdiscs.music_disc_panama.desc"
+      },
+      "length_in_seconds": 128.9984580498866,
+      "sound_event": "anthemdiscs:panama"
+    }
+    

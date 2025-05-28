@@ -1676,6 +1676,446 @@
             "stream": true
           }
         ]
+      },
+
+      
+      "anguilla": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:anguilla",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "antigua_and_barbuda": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:antigua_and_barbuda",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "argentina": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:argentina",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "bahamas": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:bahamas",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "barbados": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:barbados",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "belize": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:belize",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "bermuda": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:bermuda",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "bolivia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:bolivia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "brazil": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:brazil",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "british_virgin_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:british_virgin_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "canada": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:canada",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "cayman_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:cayman_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "chile": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:chile",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "colombia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:colombia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "costa_rica": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:costa_rica",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "cuba": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:cuba",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "dominica": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:dominica",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "dominican_republic": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:dominican_republic",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "ecuador": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:ecuador",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "el_salvador": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:el_salvador",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "falkland_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:falkland_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "grenada": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:grenada",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "guatemala": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:guatemala",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "guyana": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:guyana",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "haiti": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:haiti",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "honduras": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:honduras",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "jamaica": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:jamaica",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "mexico": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:mexico",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "montserrat": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:montserrat",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "nicaragua": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:nicaragua",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "panama": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:panama",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "paraguay": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:paraguay",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "peru": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:peru",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "puerto_rico": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:puerto_rico",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "st_kitts_and_nevis": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:st_kitts_and_nevis",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "st_lucia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:st_lucia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "st_vincent": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:st_vincent",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "suriname": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:suriname",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "trinidad_and_tobago": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:trinidad_and_tobago",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "turks_and_caicos_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:turks_and_caicos_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "united_states_of_america": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:united_states_of_america",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "uruguay": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:uruguay",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "us_virgin_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:us_virgin_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "venezuela": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:venezuela",
+            "stream": true
+          }
+        ]
       }
 
 }

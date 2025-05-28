@@ -1194,6 +1194,314 @@ public class ModItems {
             .jukeboxPlayable(ModSounds.VANUATU_KEY).maxCount(1)
     );
 
+    
+    public static final Item MUSIC_DISC_ANGUILLA = registerItem(
+        "music_disc_anguilla",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ANGUILLA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_ANTIGUA_AND_BARBUDA = registerItem(
+        "music_disc_antigua_and_barbuda",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ANTIGUA_AND_BARBUDA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_ARGENTINA = registerItem(
+        "music_disc_argentina",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ARGENTINA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BAHAMAS = registerItem(
+        "music_disc_bahamas",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BAHAMAS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BARBADOS = registerItem(
+        "music_disc_barbados",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BARBADOS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BELIZE = registerItem(
+        "music_disc_belize",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BELIZE_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BERMUDA = registerItem(
+        "music_disc_bermuda",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BERMUDA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BOLIVIA = registerItem(
+        "music_disc_bolivia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BOLIVIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BRAZIL = registerItem(
+        "music_disc_brazil",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BRAZIL_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BRITISH_VIRGIN_ISLANDS = registerItem(
+        "music_disc_british_virgin_islands",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BRITISH_VIRGIN_ISLANDS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_CANADA = registerItem(
+        "music_disc_canada",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.CANADA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_CAYMAN_ISLANDS = registerItem(
+        "music_disc_cayman_islands",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.CAYMAN_ISLANDS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_CHILE = registerItem(
+        "music_disc_chile",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.CHILE_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_COLOMBIA = registerItem(
+        "music_disc_colombia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.COLOMBIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_COSTA_RICA = registerItem(
+        "music_disc_costa_rica",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.COSTA_RICA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_CUBA = registerItem(
+        "music_disc_cuba",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.CUBA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_DOMINICA = registerItem(
+        "music_disc_dominica",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.DOMINICA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_DOMINICAN_REPUBLIC = registerItem(
+        "music_disc_dominican_republic",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.DOMINICAN_REPUBLIC_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_ECUADOR = registerItem(
+        "music_disc_ecuador",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ECUADOR_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_EL_SALVADOR = registerItem(
+        "music_disc_el_salvador",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.EL_SALVADOR_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_FALKLAND_ISLANDS = registerItem(
+        "music_disc_falkland_islands",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.FALKLAND_ISLANDS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_GRENADA = registerItem(
+        "music_disc_grenada",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.GRENADA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_GUATEMALA = registerItem(
+        "music_disc_guatemala",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.GUATEMALA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_GUYANA = registerItem(
+        "music_disc_guyana",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.GUYANA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_HAITI = registerItem(
+        "music_disc_haiti",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.HAITI_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_HONDURAS = registerItem(
+        "music_disc_honduras",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.HONDURAS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_JAMAICA = registerItem(
+        "music_disc_jamaica",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.JAMAICA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_MEXICO = registerItem(
+        "music_disc_mexico",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.MEXICO_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_MONTSERRAT = registerItem(
+        "music_disc_montserrat",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.MONTSERRAT_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_NICARAGUA = registerItem(
+        "music_disc_nicaragua",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.NICARAGUA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_PANAMA = registerItem(
+        "music_disc_panama",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.PANAMA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_PARAGUAY = registerItem(
+        "music_disc_paraguay",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.PARAGUAY_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_PERU = registerItem(
+        "music_disc_peru",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.PERU_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_PUERTO_RICO = registerItem(
+        "music_disc_puerto_rico",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.PUERTO_RICO_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_ST_KITTS_AND_NEVIS = registerItem(
+        "music_disc_st_kitts_and_nevis",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ST_KITTS_AND_NEVIS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_ST_LUCIA = registerItem(
+        "music_disc_st_lucia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ST_LUCIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_ST_VINCENT = registerItem(
+        "music_disc_st_vincent",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ST_VINCENT_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_SURINAME = registerItem(
+        "music_disc_suriname",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.SURINAME_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_TRINIDAD_AND_TOBAGO = registerItem(
+        "music_disc_trinidad_and_tobago",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.TRINIDAD_AND_TOBAGO_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_TURKS_AND_CAICOS_ISLANDS = registerItem(
+        "music_disc_turks_and_caicos_islands",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.TURKS_AND_CAICOS_ISLANDS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_UNITED_STATES_OF_AMERICA = registerItem(
+        "music_disc_united_states_of_america",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.UNITED_STATES_OF_AMERICA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_URUGUAY = registerItem(
+        "music_disc_uruguay",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.URUGUAY_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_US_VIRGIN_ISLANDS = registerItem(
+        "music_disc_us_virgin_islands",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.US_VIRGIN_ISLANDS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_VENEZUELA = registerItem(
+        "music_disc_venezuela",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.VENEZUELA_KEY).maxCount(1)
+    );
+
     private static Item registerItem(String name, Item.Settings settings) {
         Identifier id = Identifier.of(AnthemDiscs.MOD_ID, name);
         RegistryKey<Item> key = RegistryKey.of(RegistryKeys.ITEM, id);

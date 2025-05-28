@@ -1,13 +1,15 @@
 {
     "item.anthemdiscs.music_disc_empty": "Empty Music Disc",
 
-    "itemgroup.anthemdiscs.europe_item_group": "Europe Anthems",
+    "itemgroup.anthemdiscs.europe_item_group": "Europen Anthems",
 
-    "itemgroup.anthemdiscs.africa_item_group": "Africa Anthems",
+    "itemgroup.anthemdiscs.africa_item_group": "African Anthems",
 
-    "itemgroup.anthemdiscs.asia_item_group": "Asia Anthems",
+    "itemgroup.anthemdiscs.asia_item_group": "Asian Anthems",
 
-    "itemgroup.anthemdiscs.oceania_item_group": "Oceania Anthems",
+    "itemgroup.anthemdiscs.oceania_item_group": "Oceanian Anthems",
+
+    "itemgroup.anthemdiscs.america_item_group": "American Anthems",
 
     "item.anthemdiscs.music_disc_albania": "Music Disc",
     "item.anthemdiscs.music_disc_albania.desc": "National Anthem - Albania",
@@ -399,7 +401,7 @@
 
 
     "item.anthemdiscs.music_disc_sthelena": "Music Disc",
-    "item.anthemdiscs.music_disc_sthelena.desc": "National Anthem - Sthelena",
+    "item.anthemdiscs.music_disc_sthelena.desc": "National Anthem - St Helena",
 
 
     "item.anthemdiscs.music_disc_sudan": "Music Disc",
@@ -584,7 +586,7 @@
 
 
     "item.anthemdiscs.music_disc_uae": "Music Disc",
-    "item.anthemdiscs.music_disc_uae.desc": "National Anthem - Uae",
+    "item.anthemdiscs.music_disc_uae.desc": "National Anthem - United Arab Emirates",
 
 
     "item.anthemdiscs.music_disc_uzbekistan": "Music Disc",
@@ -681,6 +683,183 @@
 
 
     "item.anthemdiscs.music_disc_vanuatu": "Music Disc",
-    "item.anthemdiscs.music_disc_vanuatu.desc": "National Anthem - Vanuatu"
+    "item.anthemdiscs.music_disc_vanuatu.desc": "National Anthem - Vanuatu",
+
+
+    "item.anthemdiscs.music_disc_anguilla": "Music Disc",
+    "item.anthemdiscs.music_disc_anguilla.desc": "National Anthem - Anguilla",
+
+
+    "item.anthemdiscs.music_disc_antigua_and_barbuda": "Music Disc",
+    "item.anthemdiscs.music_disc_antigua_and_barbuda.desc": "National Anthem - Antigua and Barbuda",
+
+
+
+    "item.anthemdiscs.music_disc_argentina": "Music Disc",
+    "item.anthemdiscs.music_disc_argentina.desc": "National Anthem - Argentina",
+
+
+    "item.anthemdiscs.music_disc_bahamas": "Music Disc",
+    "item.anthemdiscs.music_disc_bahamas.desc": "National Anthem - Bahamas",
+
+
+    "item.anthemdiscs.music_disc_barbados": "Music Disc",
+    "item.anthemdiscs.music_disc_barbados.desc": "National Anthem - Barbados",
+
+
+    "item.anthemdiscs.music_disc_belize": "Music Disc",
+    "item.anthemdiscs.music_disc_belize.desc": "National Anthem - Belize",
+
+
+    "item.anthemdiscs.music_disc_bermuda": "Music Disc",
+    "item.anthemdiscs.music_disc_bermuda.desc": "National Anthem - Bermuda",
+
+
+    "item.anthemdiscs.music_disc_bolivia": "Music Disc",
+    "item.anthemdiscs.music_disc_bolivia.desc": "National Anthem - Bolivia",
+
+
+    "item.anthemdiscs.music_disc_brazil": "Music Disc",
+    "item.anthemdiscs.music_disc_brazil.desc": "National Anthem - Brazil",
+
+
+    "item.anthemdiscs.music_disc_british_virgin_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_british_virgin_islands.desc": "National Anthem - British Virgin Islands",
+
+
+    "item.anthemdiscs.music_disc_canada": "Music Disc",
+    "item.anthemdiscs.music_disc_canada.desc": "National Anthem - Canada",
+
+
+    "item.anthemdiscs.music_disc_cayman_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_cayman_islands.desc": "National Anthem - Cayman Islands",
+
+
+    "item.anthemdiscs.music_disc_chile": "Music Disc",
+    "item.anthemdiscs.music_disc_chile.desc": "National Anthem - Chile",
+
+
+    "item.anthemdiscs.music_disc_colombia": "Music Disc",
+    "item.anthemdiscs.music_disc_colombia.desc": "National Anthem - Colombia",
+
+
+    "item.anthemdiscs.music_disc_costa_rica": "Music Disc",
+    "item.anthemdiscs.music_disc_costa_rica.desc": "National Anthem - Costa Rica",
+
+
+    "item.anthemdiscs.music_disc_cuba": "Music Disc",
+    "item.anthemdiscs.music_disc_cuba.desc": "National Anthem - Cuba",
+
+
+    "item.anthemdiscs.music_disc_dominica": "Music Disc",
+    "item.anthemdiscs.music_disc_dominica.desc": "National Anthem - Dominica",
+
+
+    "item.anthemdiscs.music_disc_dominican_republic": "Music Disc",
+    "item.anthemdiscs.music_disc_dominican_republic.desc": "National Anthem - Dominican Republic",
+
+
+    "item.anthemdiscs.music_disc_ecuador": "Music Disc",
+    "item.anthemdiscs.music_disc_ecuador.desc": "National Anthem - Ecuador",
+
+
+    "item.anthemdiscs.music_disc_el_salvador": "Music Disc",
+    "item.anthemdiscs.music_disc_el_salvador.desc": "National Anthem - El Salvador",
+
+
+    "item.anthemdiscs.music_disc_falkland_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_falkland_islands.desc": "National Anthem - Falkland Islands",
+
+
+    "item.anthemdiscs.music_disc_grenada": "Music Disc",
+    "item.anthemdiscs.music_disc_grenada.desc": "National Anthem - Grenada",
+
+
+    "item.anthemdiscs.music_disc_guatemala": "Music Disc",
+    "item.anthemdiscs.music_disc_guatemala.desc": "National Anthem - Guatemala",
+
+
+    "item.anthemdiscs.music_disc_guyana": "Music Disc",
+    "item.anthemdiscs.music_disc_guyana.desc": "National Anthem - Guyana",
+
+
+    "item.anthemdiscs.music_disc_haiti": "Music Disc",
+    "item.anthemdiscs.music_disc_haiti.desc": "National Anthem - Haiti",
+
+
+    "item.anthemdiscs.music_disc_honduras": "Music Disc",
+    "item.anthemdiscs.music_disc_honduras.desc": "National Anthem - Honduras",
+
+
+    "item.anthemdiscs.music_disc_jamaica": "Music Disc",
+    "item.anthemdiscs.music_disc_jamaica.desc": "National Anthem - Jamaica",
+
+
+    "item.anthemdiscs.music_disc_mexico": "Music Disc",
+    "item.anthemdiscs.music_disc_mexico.desc": "National Anthem - Mexico",
+
+
+    "item.anthemdiscs.music_disc_montserrat": "Music Disc",
+    "item.anthemdiscs.music_disc_montserrat.desc": "National Anthem - Montserrat",
+
+
+    "item.anthemdiscs.music_disc_nicaragua": "Music Disc",
+    "item.anthemdiscs.music_disc_nicaragua.desc": "National Anthem - Nicaragua",
+
+
+    "item.anthemdiscs.music_disc_panama": "Music Disc",
+    "item.anthemdiscs.music_disc_panama.desc": "National Anthem - Panama",
+
+
+    "item.anthemdiscs.music_disc_paraguay": "Music Disc",
+    "item.anthemdiscs.music_disc_paraguay.desc": "National Anthem - Paraguay",
+
+
+    "item.anthemdiscs.music_disc_peru": "Music Disc",
+    "item.anthemdiscs.music_disc_peru.desc": "National Anthem - Peru",
+
+
+    "item.anthemdiscs.music_disc_puerto_rico": "Music Disc",
+    "item.anthemdiscs.music_disc_puerto_rico.desc": "National Anthem - Puerto Rico",
+
+
+    "item.anthemdiscs.music_disc_st_kitts_and_nevis": "Music Disc",
+    "item.anthemdiscs.music_disc_st_kitts_and_nevis.desc": "National Anthem - St Kitts and Nevis",
+
+
+    "item.anthemdiscs.music_disc_st_lucia": "Music Disc",
+    "item.anthemdiscs.music_disc_st_lucia.desc": "National Anthem - St Lucia",
+
+
+    "item.anthemdiscs.music_disc_st_vincent": "Music Disc",
+    "item.anthemdiscs.music_disc_st_vincent.desc": "National Anthem - St Vincent",
+
+
+    "item.anthemdiscs.music_disc_suriname": "Music Disc",
+    "item.anthemdiscs.music_disc_suriname.desc": "National Anthem - Suriname",
+
+
+    "item.anthemdiscs.music_disc_trinidad_and_tobago": "Music Disc",
+    "item.anthemdiscs.music_disc_trinidad_and_tobago.desc": "National Anthem - Trinidad and Tobago",
+
+
+    "item.anthemdiscs.music_disc_turks_and_caicos_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_turks_and_caicos_islands.desc": "National Anthem - Turks and Caicos Islands",
+
+
+    "item.anthemdiscs.music_disc_united_states_of_america": "Music Disc",
+    "item.anthemdiscs.music_disc_united_states_of_america.desc": "National Anthem - United States of America",
+
+
+    "item.anthemdiscs.music_disc_uruguay": "Music Disc",
+    "item.anthemdiscs.music_disc_uruguay.desc": "National Anthem - Uruguay",
+
+
+    "item.anthemdiscs.music_disc_us_virgin_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_us_virgin_islands.desc": "National Anthem - US Virgin Islands",
+
+
+    "item.anthemdiscs.music_disc_venezuela": "Music Disc",
+    "item.anthemdiscs.music_disc_venezuela.desc": "National Anthem - Venezuela"
 
 }

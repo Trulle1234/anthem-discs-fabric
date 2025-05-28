@@ -387,6 +387,104 @@ public class ModItemGroups {
         })
         .build());
 
+                                public static final ItemGroup AMERICA_ITEM_GROUP = Registry.register(Registries.ITEM_GROUP, 
+        Identifier.of(AnthemDiscs.MOD_ID, "america_item_group"), 
+        FabricItemGroup.builder()
+            .icon(() -> new ItemStack(ModItems.MUSIC_DISC_EMPTY))
+            .displayName(Text.translatable("itemgroup.anthemdiscs.america_item_group"))
+            .entries((displayContext, entries) ->  {
+
+            entries.add(ModItems.MUSIC_DISC_ANGUILLA);    
+
+            entries.add(ModItems.MUSIC_DISC_ANTIGUA_AND_BARBUDA);    
+
+            entries.add(ModItems.MUSIC_DISC_ARGENTINA);    
+
+            entries.add(ModItems.MUSIC_DISC_BAHAMAS);    
+
+            entries.add(ModItems.MUSIC_DISC_BARBADOS);    
+
+            entries.add(ModItems.MUSIC_DISC_BELIZE);    
+
+            entries.add(ModItems.MUSIC_DISC_BERMUDA);    
+
+            entries.add(ModItems.MUSIC_DISC_BOLIVIA);    
+
+            entries.add(ModItems.MUSIC_DISC_BRAZIL);    
+
+            entries.add(ModItems.MUSIC_DISC_BRITISH_VIRGIN_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_CANADA);    
+
+            entries.add(ModItems.MUSIC_DISC_CAYMAN_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_CHILE);    
+
+            entries.add(ModItems.MUSIC_DISC_COLOMBIA);    
+
+            entries.add(ModItems.MUSIC_DISC_COSTA_RICA);    
+
+            entries.add(ModItems.MUSIC_DISC_CUBA);    
+
+            entries.add(ModItems.MUSIC_DISC_DOMINICA);    
+
+            entries.add(ModItems.MUSIC_DISC_DOMINICAN_REPUBLIC);    
+
+            entries.add(ModItems.MUSIC_DISC_ECUADOR);    
+
+            entries.add(ModItems.MUSIC_DISC_EL_SALVADOR);    
+
+            entries.add(ModItems.MUSIC_DISC_FALKLAND_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_GRENADA);    
+
+            entries.add(ModItems.MUSIC_DISC_GUATEMALA);    
+
+            entries.add(ModItems.MUSIC_DISC_GUYANA);    
+
+            entries.add(ModItems.MUSIC_DISC_HAITI);    
+
+            entries.add(ModItems.MUSIC_DISC_HONDURAS);    
+
+            entries.add(ModItems.MUSIC_DISC_JAMAICA);    
+
+            entries.add(ModItems.MUSIC_DISC_MEXICO);    
+
+            entries.add(ModItems.MUSIC_DISC_MONTSERRAT);    
+
+            entries.add(ModItems.MUSIC_DISC_NICARAGUA);    
+
+            entries.add(ModItems.MUSIC_DISC_PANAMA);    
+
+            entries.add(ModItems.MUSIC_DISC_PARAGUAY);    
+
+            entries.add(ModItems.MUSIC_DISC_PERU);    
+
+            entries.add(ModItems.MUSIC_DISC_PUERTO_RICO);    
+
+            entries.add(ModItems.MUSIC_DISC_ST_KITTS_AND_NEVIS);    
+
+            entries.add(ModItems.MUSIC_DISC_ST_LUCIA);    
+
+            entries.add(ModItems.MUSIC_DISC_ST_VINCENT);    
+
+            entries.add(ModItems.MUSIC_DISC_SURINAME);    
+
+            entries.add(ModItems.MUSIC_DISC_TRINIDAD_AND_TOBAGO);    
+
+            entries.add(ModItems.MUSIC_DISC_TURKS_AND_CAICOS_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_UNITED_STATES_OF_AMERICA);    
+
+            entries.add(ModItems.MUSIC_DISC_URUGUAY);    
+
+            entries.add(ModItems.MUSIC_DISC_US_VIRGIN_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_VENEZUELA);    
+
+        })
+        .build());
+
     public static void registerItemGroups() {
         AnthemDiscs.LOGGER.info("Registering Mod Item Groups for " + AnthemDiscs.MOD_ID);
     }
