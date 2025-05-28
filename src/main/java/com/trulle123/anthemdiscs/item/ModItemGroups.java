@@ -242,6 +242,100 @@ public class ModItemGroups {
         })
         .build());
 
+                public static final ItemGroup ASIA_ITEM_GROUP = Registry.register(Registries.ITEM_GROUP, 
+        Identifier.of(AnthemDiscs.MOD_ID, "asia_item_group"), 
+        FabricItemGroup.builder()
+            .icon(() -> new ItemStack(ModItems.MUSIC_DISC_EMPTY))
+            .displayName(Text.translatable("itemgroup.anthemdiscs.asia_item_group"))
+            .entries((displayContext, entries) ->  {
+            
+            entries.add(ModItems.MUSIC_DISC_AFGHANISTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_BAHRAIN);    
+
+            entries.add(ModItems.MUSIC_DISC_BANGLADESH);    
+
+            entries.add(ModItems.MUSIC_DISC_BHUTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_BRUNEI);    
+
+            entries.add(ModItems.MUSIC_DISC_CAMBODIA);    
+
+            entries.add(ModItems.MUSIC_DISC_CHINA);    
+
+            entries.add(ModItems.MUSIC_DISC_INDIA);    
+
+            entries.add(ModItems.MUSIC_DISC_INDONESIA);    
+
+            entries.add(ModItems.MUSIC_DISC_IRAN);    
+
+            entries.add(ModItems.MUSIC_DISC_IRAQ);    
+
+            entries.add(ModItems.MUSIC_DISC_ISRAEL);    
+
+            entries.add(ModItems.MUSIC_DISC_JAPAN);    
+
+            entries.add(ModItems.MUSIC_DISC_JORDAN);    
+
+            entries.add(ModItems.MUSIC_DISC_KAZAKHSTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_KUWAIT);    
+
+            entries.add(ModItems.MUSIC_DISC_KYRGYZSTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_LAOS);    
+
+            entries.add(ModItems.MUSIC_DISC_LEBANON);    
+
+            entries.add(ModItems.MUSIC_DISC_MALAYSIA);    
+
+            entries.add(ModItems.MUSIC_DISC_MALDIVES);    
+
+            entries.add(ModItems.MUSIC_DISC_MONGOLIA);    
+
+            entries.add(ModItems.MUSIC_DISC_MYANMAR);    
+
+            entries.add(ModItems.MUSIC_DISC_NEPAL);    
+
+            entries.add(ModItems.MUSIC_DISC_NORTH_KOREA);    
+
+            entries.add(ModItems.MUSIC_DISC_OMAN);    
+
+            entries.add(ModItems.MUSIC_DISC_PAKISTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_PHILIPPINES);    
+
+            entries.add(ModItems.MUSIC_DISC_QATAR);    
+
+            entries.add(ModItems.MUSIC_DISC_SAUDIARABIA);    
+
+            entries.add(ModItems.MUSIC_DISC_SINGAPORE);    
+
+            entries.add(ModItems.MUSIC_DISC_SOUTH_KOREA);    
+
+            entries.add(ModItems.MUSIC_DISC_SRILANKA);    
+
+            entries.add(ModItems.MUSIC_DISC_SYRIA);    
+
+            entries.add(ModItems.MUSIC_DISC_TAJIKISTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_THAILAND);    
+
+            entries.add(ModItems.MUSIC_DISC_TIMORLESTE);    
+
+            entries.add(ModItems.MUSIC_DISC_TURKMENISTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_UAE);    
+
+            entries.add(ModItems.MUSIC_DISC_UZBEKISTAN);    
+
+            entries.add(ModItems.MUSIC_DISC_VIETNAM);    
+
+            entries.add(ModItems.MUSIC_DISC_YEMEN);    
+        
+        })
+        .build());
+
     public static void registerItemGroups() {
         AnthemDiscs.LOGGER.info("Registering Mod Item Groups for " + AnthemDiscs.MOD_ID);
     }

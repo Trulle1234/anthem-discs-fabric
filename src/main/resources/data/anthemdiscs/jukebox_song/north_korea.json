@@ -1,0 +1,10 @@
+
+    {
+      "comparator_output": 5,
+      "description": {
+        "translate": "item.anthemdiscs.music_disc_north_korea.desc"
+      },
+      "length_in_seconds": 84.04462585034014,
+      "sound_event": "anthemdiscs:north_korea"
+    }
+    

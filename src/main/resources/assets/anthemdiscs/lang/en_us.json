@@ -235,7 +235,7 @@
 
 
     "item.anthemdiscs.music_disc_capeverde": "Music Disc",
-    "item.anthemdiscs.music_disc_capeverde.desc": "National Anthem - Cape Verde",
+    "item.anthemdiscs.music_disc_capeverde.desc": "National Anthem - Cabo Verde",
 
 
     "item.anthemdiscs.music_disc_central_african_republic": "Music Disc",
@@ -367,7 +367,7 @@
 
 
     "item.anthemdiscs.music_disc_saotome": "Music Disc",
-    "item.anthemdiscs.music_disc_saotome.desc": "National Anthem - Saotome",
+    "item.anthemdiscs.music_disc_saotome.desc": "National Anthem - São Tomé and Príncipe",
 
 
     "item.anthemdiscs.music_disc_senegal": "Music Disc",
@@ -423,6 +423,175 @@
 
 
     "item.anthemdiscs.music_disc_zimbabwe": "Music Disc",
-    "item.anthemdiscs.music_disc_zimbabwe.desc": "National Anthem - Zimbabwe"
+    "item.anthemdiscs.music_disc_zimbabwe.desc": "National Anthem - Zimbabwe",
+
+
+
+    "item.anthemdiscs.music_disc_afghanistan": "Music Disc",
+    "item.anthemdiscs.music_disc_afghanistan.desc": "National Anthem - Afghanistan",
+
+
+    "item.anthemdiscs.music_disc_bahrain": "Music Disc",
+    "item.anthemdiscs.music_disc_bahrain.desc": "National Anthem - Bahrain",
+
+
+    "item.anthemdiscs.music_disc_bangladesh": "Music Disc",
+    "item.anthemdiscs.music_disc_bangladesh.desc": "National Anthem - Bangladesh",
+
+
+    "item.anthemdiscs.music_disc_bhutan": "Music Disc",
+    "item.anthemdiscs.music_disc_bhutan.desc": "National Anthem - Bhutan",
+
+
+    "item.anthemdiscs.music_disc_brunei": "Music Disc",
+    "item.anthemdiscs.music_disc_brunei.desc": "National Anthem - Brunei",
+
+
+    "item.anthemdiscs.music_disc_cambodia": "Music Disc",
+    "item.anthemdiscs.music_disc_cambodia.desc": "National Anthem - Cambodia",
+
+
+    "item.anthemdiscs.music_disc_china": "Music Disc",
+    "item.anthemdiscs.music_disc_china.desc": "National Anthem - China",
+
+
+    "item.anthemdiscs.music_disc_india": "Music Disc",
+    "item.anthemdiscs.music_disc_india.desc": "National Anthem - India",
+
+
+    "item.anthemdiscs.music_disc_indonesia": "Music Disc",
+    "item.anthemdiscs.music_disc_indonesia.desc": "National Anthem - Indonesia",
+
+
+    "item.anthemdiscs.music_disc_iran": "Music Disc",
+    "item.anthemdiscs.music_disc_iran.desc": "National Anthem - Iran",
+
+
+    "item.anthemdiscs.music_disc_iraq": "Music Disc",
+    "item.anthemdiscs.music_disc_iraq.desc": "National Anthem - Iraq",
+
+
+    "item.anthemdiscs.music_disc_israel": "Music Disc",
+    "item.anthemdiscs.music_disc_israel.desc": "National Anthem - Israel",
+
+
+    "item.anthemdiscs.music_disc_japan": "Music Disc",
+    "item.anthemdiscs.music_disc_japan.desc": "National Anthem - Japan",
+
+
+    "item.anthemdiscs.music_disc_jordan": "Music Disc",
+    "item.anthemdiscs.music_disc_jordan.desc": "National Anthem - Jordan",
+
+
+    "item.anthemdiscs.music_disc_kazakhstan": "Music Disc",
+    "item.anthemdiscs.music_disc_kazakhstan.desc": "National Anthem - Kazakhstan",
+
+
+    "item.anthemdiscs.music_disc_kuwait": "Music Disc",
+    "item.anthemdiscs.music_disc_kuwait.desc": "National Anthem - Kuwait",
+
+
+    "item.anthemdiscs.music_disc_kyrgyzstan": "Music Disc",
+    "item.anthemdiscs.music_disc_kyrgyzstan.desc": "National Anthem - Kyrgyzstan",
+
+
+    "item.anthemdiscs.music_disc_laos": "Music Disc",
+    "item.anthemdiscs.music_disc_laos.desc": "National Anthem - Laos",
+
+
+    "item.anthemdiscs.music_disc_lebanon": "Music Disc",
+    "item.anthemdiscs.music_disc_lebanon.desc": "National Anthem - Lebanon",
+
+
+    "item.anthemdiscs.music_disc_malaysia": "Music Disc",
+    "item.anthemdiscs.music_disc_malaysia.desc": "National Anthem - Malaysia",
+
+
+    "item.anthemdiscs.music_disc_maldives": "Music Disc",
+    "item.anthemdiscs.music_disc_maldives.desc": "National Anthem - Maldives",
+
+
+    "item.anthemdiscs.music_disc_mongolia": "Music Disc",
+    "item.anthemdiscs.music_disc_mongolia.desc": "National Anthem - Mongolia",
+
+
+    "item.anthemdiscs.music_disc_myanmar": "Music Disc",
+    "item.anthemdiscs.music_disc_myanmar.desc": "National Anthem - Myanmar",
+
+
+    "item.anthemdiscs.music_disc_nepal": "Music Disc",
+    "item.anthemdiscs.music_disc_nepal.desc": "National Anthem - Nepal",
+
+
+    "item.anthemdiscs.music_disc_north_korea": "Music Disc",
+    "item.anthemdiscs.music_disc_north_korea.desc": "National Anthem - North Korea",
+
+
+    "item.anthemdiscs.music_disc_oman": "Music Disc",
+    "item.anthemdiscs.music_disc_oman.desc": "National Anthem - Oman",
+
+
+    "item.anthemdiscs.music_disc_pakistan": "Music Disc",
+    "item.anthemdiscs.music_disc_pakistan.desc": "National Anthem - Pakistan",
+
+
+    "item.anthemdiscs.music_disc_philippines": "Music Disc",
+    "item.anthemdiscs.music_disc_philippines.desc": "National Anthem - Philippines",
+
+
+    "item.anthemdiscs.music_disc_qatar": "Music Disc",
+    "item.anthemdiscs.music_disc_qatar.desc": "National Anthem - Qatar",
+
+
+    "item.anthemdiscs.music_disc_saudiarabia": "Music Disc",
+    "item.anthemdiscs.music_disc_saudiarabia.desc": "National Anthem - Saudi Arabia",
+
+
+    "item.anthemdiscs.music_disc_singapore": "Music Disc",
+    "item.anthemdiscs.music_disc_singapore.desc": "National Anthem - Singapore",
+
+
+    "item.anthemdiscs.music_disc_south_korea": "Music Disc",
+    "item.anthemdiscs.music_disc_south_korea.desc": "National Anthem - South Korea",
+
+
+    "item.anthemdiscs.music_disc_srilanka": "Music Disc",
+    "item.anthemdiscs.music_disc_srilanka.desc": "National Anthem - Sri Lanka",
+
+
+    "item.anthemdiscs.music_disc_syria": "Music Disc",
+    "item.anthemdiscs.music_disc_syria.desc": "National Anthem - Syria",
+
+
+    "item.anthemdiscs.music_disc_tajikistan": "Music Disc",
+    "item.anthemdiscs.music_disc_tajikistan.desc": "National Anthem - Tajikistan",
+
+
+    "item.anthemdiscs.music_disc_thailand": "Music Disc",
+    "item.anthemdiscs.music_disc_thailand.desc": "National Anthem - Thailand",
+
+
+    "item.anthemdiscs.music_disc_timorleste": "Music Disc",
+    "item.anthemdiscs.music_disc_timorleste.desc": "National Anthem - Timor Leste",
+
+
+    "item.anthemdiscs.music_disc_turkmenistan": "Music Disc",
+    "item.anthemdiscs.music_disc_turkmenistan.desc": "National Anthem - Turkmenistan",
+
+
+    "item.anthemdiscs.music_disc_uae": "Music Disc",
+    "item.anthemdiscs.music_disc_uae.desc": "National Anthem - Uae",
+
+
+    "item.anthemdiscs.music_disc_uzbekistan": "Music Disc",
+    "item.anthemdiscs.music_disc_uzbekistan.desc": "National Anthem - Uzbekistan",
+
+
+    "item.anthemdiscs.music_disc_vietnam": "Music Disc",
+    "item.anthemdiscs.music_disc_vietnam.desc": "National Anthem - Vietnam",
+
+
+    "item.anthemdiscs.music_disc_yemen": "Music Disc",
+    "item.anthemdiscs.music_disc_yemen.desc": "National Anthem - Yemen"
 
 }

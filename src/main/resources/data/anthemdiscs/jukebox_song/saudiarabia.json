@@ -1,0 +1,10 @@
+
+    {
+      "comparator_output": 5,
+      "description": {
+        "translate": "item.anthemdiscs.music_disc_saudiarabia.desc"
+      },
+      "length_in_seconds": 60.08163265306123,
+      "sound_event": "anthemdiscs:saudiarabia"
+    }
+    

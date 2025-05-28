@@ -753,6 +753,300 @@ public class ModItems {
             .jukeboxPlayable(ModSounds.ZIMBABWE_KEY).maxCount(1)
     );
 
+    
+    public static final Item MUSIC_DISC_AFGHANISTAN = registerItem(
+        "music_disc_afghanistan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.AFGHANISTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BAHRAIN = registerItem(
+        "music_disc_bahrain",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BAHRAIN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BANGLADESH = registerItem(
+        "music_disc_bangladesh",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BANGLADESH_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BHUTAN = registerItem(
+        "music_disc_bhutan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BHUTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_BRUNEI = registerItem(
+        "music_disc_brunei",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.BRUNEI_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_CAMBODIA = registerItem(
+        "music_disc_cambodia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.CAMBODIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_CHINA = registerItem(
+        "music_disc_china",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.CHINA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_INDIA = registerItem(
+        "music_disc_india",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.INDIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_INDONESIA = registerItem(
+        "music_disc_indonesia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.INDONESIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_IRAN = registerItem(
+        "music_disc_iran",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.IRAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_IRAQ = registerItem(
+        "music_disc_iraq",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.IRAQ_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_ISRAEL = registerItem(
+        "music_disc_israel",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.ISRAEL_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_JAPAN = registerItem(
+        "music_disc_japan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.JAPAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_JORDAN = registerItem(
+        "music_disc_jordan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.JORDAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_KAZAKHSTAN = registerItem(
+        "music_disc_kazakhstan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.KAZAKHSTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_KUWAIT = registerItem(
+        "music_disc_kuwait",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.KUWAIT_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_KYRGYZSTAN = registerItem(
+        "music_disc_kyrgyzstan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.KYRGYZSTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_LAOS = registerItem(
+        "music_disc_laos",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.LAOS_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_LEBANON = registerItem(
+        "music_disc_lebanon",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.LEBANON_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_MALAYSIA = registerItem(
+        "music_disc_malaysia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.MALAYSIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_MALDIVES = registerItem(
+        "music_disc_maldives",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.MALDIVES_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_MONGOLIA = registerItem(
+        "music_disc_mongolia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.MONGOLIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_MYANMAR = registerItem(
+        "music_disc_myanmar",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.MYANMAR_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_NEPAL = registerItem(
+        "music_disc_nepal",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.NEPAL_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_NORTH_KOREA = registerItem(
+        "music_disc_north_korea",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.NORTH_KOREA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_OMAN = registerItem(
+        "music_disc_oman",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.OMAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_PAKISTAN = registerItem(
+        "music_disc_pakistan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.PAKISTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_PHILIPPINES = registerItem(
+        "music_disc_philippines",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.PHILIPPINES_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_QATAR = registerItem(
+        "music_disc_qatar",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.QATAR_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_SAUDIARABIA = registerItem(
+        "music_disc_saudiarabia",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.SAUDIARABIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_SINGAPORE = registerItem(
+        "music_disc_singapore",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.SINGAPORE_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_SOUTH_KOREA = registerItem(
+        "music_disc_south_korea",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.SOUTH_KOREA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_SRILANKA = registerItem(
+        "music_disc_srilanka",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.SRILANKA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_SYRIA = registerItem(
+        "music_disc_syria",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.SYRIA_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_TAJIKISTAN = registerItem(
+        "music_disc_tajikistan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.TAJIKISTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_THAILAND = registerItem(
+        "music_disc_thailand",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.THAILAND_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_TIMORLESTE = registerItem(
+        "music_disc_timorleste",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.TIMORLESTE_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_TURKMENISTAN = registerItem(
+        "music_disc_turkmenistan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.TURKMENISTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_UAE = registerItem(
+        "music_disc_uae",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.UAE_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_UZBEKISTAN = registerItem(
+        "music_disc_uzbekistan",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.UZBEKISTAN_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_VIETNAM = registerItem(
+        "music_disc_vietnam",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.VIETNAM_KEY).maxCount(1)
+    );
+
+
+    public static final Item MUSIC_DISC_YEMEN = registerItem(
+        "music_disc_yemen",
+         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
+            .jukeboxPlayable(ModSounds.YEMEN_KEY).maxCount(1)
+    );
+
 
     private static Item registerItem(String name, Item.Settings settings) {
         Identifier id = Identifier.of(AnthemDiscs.MOD_ID, name);
