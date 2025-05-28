@@ -1466,6 +1466,216 @@
             "stream": true
           }
         ]
+      },
+
+      
+      "american_samoa": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:american_samoa",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "australia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:australia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "cook_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:cook_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "fiji": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:fiji",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "guam": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:guam",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "kiribati": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:kiribati",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "marshall_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:marshall_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "micronesia": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:micronesia",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "nauru": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:nauru",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "new_zealand": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:new_zealand",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "niue": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:niue",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "northern_marianas": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:northern_marianas",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "palau": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:palau",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "papua_new_guinea": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:papua_new_guinea",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "pitcairn": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:pitcairn",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "samoa": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:samoa",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "solomon_islands": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:solomon_islands",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "tokelau": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:tokelau",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "tonga": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:tonga",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "tuvalu": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:tuvalu",
+            "stream": true
+          }
+        ]
+      },
+
+
+      "vanuatu": {
+        "sounds": [
+          {
+            "name": "anthemdiscs:vanuatu",
+            "stream": true
+          }
+        ]
       }
 
 }

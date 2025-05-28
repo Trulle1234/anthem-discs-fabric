@@ -335,6 +335,57 @@ public class ModItemGroups {
         
         })
         .build());
+                        public static final ItemGroup OCEANIA_ITEM_GROUP = Registry.register(Registries.ITEM_GROUP, 
+        Identifier.of(AnthemDiscs.MOD_ID, "oceania_item_group"), 
+        FabricItemGroup.builder()
+            .icon(() -> new ItemStack(ModItems.MUSIC_DISC_EMPTY))
+            .displayName(Text.translatable("itemgroup.anthemdiscs.oceania_item_group"))
+            .entries((displayContext, entries) ->  {
+                
+            entries.add(ModItems.MUSIC_DISC_AMERICAN_SAMOA);    
+
+            entries.add(ModItems.MUSIC_DISC_AUSTRALIA);    
+
+            entries.add(ModItems.MUSIC_DISC_COOK_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_FIJI);    
+
+            entries.add(ModItems.MUSIC_DISC_GUAM);    
+
+            entries.add(ModItems.MUSIC_DISC_KIRIBATI);    
+
+            entries.add(ModItems.MUSIC_DISC_MARSHALL_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_MICRONESIA);    
+
+            entries.add(ModItems.MUSIC_DISC_NAURU);    
+
+            entries.add(ModItems.MUSIC_DISC_NEW_ZEALAND);    
+
+            entries.add(ModItems.MUSIC_DISC_NIUE);    
+
+            entries.add(ModItems.MUSIC_DISC_NORTHERN_MARIANAS);    
+
+            entries.add(ModItems.MUSIC_DISC_PALAU);    
+
+            entries.add(ModItems.MUSIC_DISC_PAPUA_NEW_GUINEA);    
+
+            entries.add(ModItems.MUSIC_DISC_PITCAIRN);    
+
+            entries.add(ModItems.MUSIC_DISC_SAMOA);    
+
+            entries.add(ModItems.MUSIC_DISC_SOLOMON_ISLANDS);    
+
+            entries.add(ModItems.MUSIC_DISC_TOKELAU);    
+
+            entries.add(ModItems.MUSIC_DISC_TONGA);    
+
+            entries.add(ModItems.MUSIC_DISC_TUVALU);    
+
+            entries.add(ModItems.MUSIC_DISC_VANUATU);    
+
+        })
+        .build());
 
     public static void registerItemGroups() {
         AnthemDiscs.LOGGER.info("Registering Mod Item Groups for " + AnthemDiscs.MOD_ID);

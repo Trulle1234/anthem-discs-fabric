@@ -7,6 +7,8 @@
 
     "itemgroup.anthemdiscs.asia_item_group": "Asia Anthems",
 
+    "itemgroup.anthemdiscs.oceania_item_group": "Oceania Anthems",
+
     "item.anthemdiscs.music_disc_albania": "Music Disc",
     "item.anthemdiscs.music_disc_albania.desc": "National Anthem - Albania",
 
@@ -594,6 +596,91 @@
 
 
     "item.anthemdiscs.music_disc_yemen": "Music Disc",
-    "item.anthemdiscs.music_disc_yemen.desc": "National Anthem - Yemen"
+    "item.anthemdiscs.music_disc_yemen.desc": "National Anthem - Yemen",
+
+
+    
+    "item.anthemdiscs.music_disc_american_samoa": "Music Disc",
+    "item.anthemdiscs.music_disc_american_samoa.desc": "National Anthem - American Samoa",
+
+
+    "item.anthemdiscs.music_disc_australia": "Music Disc",
+    "item.anthemdiscs.music_disc_australia.desc": "National Anthem - Australia",
+
+
+    "item.anthemdiscs.music_disc_cook_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_cook_islands.desc": "National Anthem - Cook Islands",
+
+
+    "item.anthemdiscs.music_disc_fiji": "Music Disc",
+    "item.anthemdiscs.music_disc_fiji.desc": "National Anthem - Fiji",
+
+
+    "item.anthemdiscs.music_disc_guam": "Music Disc",
+    "item.anthemdiscs.music_disc_guam.desc": "National Anthem - Guam",
+
+
+    "item.anthemdiscs.music_disc_kiribati": "Music Disc",
+    "item.anthemdiscs.music_disc_kiribati.desc": "National Anthem - Kiribati",
+
+
+    "item.anthemdiscs.music_disc_marshall_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_marshall_islands.desc": "National Anthem - Marshall Islands",
+
+
+    "item.anthemdiscs.music_disc_micronesia": "Music Disc",
+    "item.anthemdiscs.music_disc_micronesia.desc": "National Anthem - Micronesia",
+
+
+    "item.anthemdiscs.music_disc_nauru": "Music Disc",
+    "item.anthemdiscs.music_disc_nauru.desc": "National Anthem - Nauru",
+
+
+    "item.anthemdiscs.music_disc_new_zealand": "Music Disc",
+    "item.anthemdiscs.music_disc_new_zealand.desc": "National Anthem - New Zealand",
+
+
+    "item.anthemdiscs.music_disc_niue": "Music Disc",
+    "item.anthemdiscs.music_disc_niue.desc": "National Anthem - Niue",
+
+
+    "item.anthemdiscs.music_disc_northern_marianas": "Music Disc",
+    "item.anthemdiscs.music_disc_northern_marianas.desc": "National Anthem - Northern Mariana Islands",
+
+
+    "item.anthemdiscs.music_disc_palau": "Music Disc",
+    "item.anthemdiscs.music_disc_palau.desc": "National Anthem - Palau",
+
+
+    "item.anthemdiscs.music_disc_papua_new_guinea": "Music Disc",
+    "item.anthemdiscs.music_disc_papua_new_guinea.desc": "National Anthem - Papua New Guinea",
+
+
+    "item.anthemdiscs.music_disc_pitcairn": "Music Disc",
+    "item.anthemdiscs.music_disc_pitcairn.desc": "National Anthem - Pitcairn",
+
+
+    "item.anthemdiscs.music_disc_samoa": "Music Disc",
+    "item.anthemdiscs.music_disc_samoa.desc": "National Anthem - Samoa",
+
+
+    "item.anthemdiscs.music_disc_solomon_islands": "Music Disc",
+    "item.anthemdiscs.music_disc_solomon_islands.desc": "National Anthem - Solomon Islands",
+
+
+    "item.anthemdiscs.music_disc_tokelau": "Music Disc",
+    "item.anthemdiscs.music_disc_tokelau.desc": "National Anthem - Tokelau",
+
+
+    "item.anthemdiscs.music_disc_tonga": "Music Disc",
+    "item.anthemdiscs.music_disc_tonga.desc": "National Anthem - Tonga",
+
+
+    "item.anthemdiscs.music_disc_tuvalu": "Music Disc",
+    "item.anthemdiscs.music_disc_tuvalu.desc": "National Anthem - Tuvalu",
+
+
+    "item.anthemdiscs.music_disc_vanuatu": "Music Disc",
+    "item.anthemdiscs.music_disc_vanuatu.desc": "National Anthem - Vanuatu"
 
 }
