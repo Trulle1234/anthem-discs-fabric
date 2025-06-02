@@ -1,17 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "pattern": [
     "III",
     "IDI",
     "III"
   ],
   "key": {
-    "I": { "item": "minecraft:iron_ingot" },
-    "D": { "item": "minecraft:diamond" }
+    "I": "minecraft:iron_ingot",
+    "D": "minecraft:diamond"
   },
   "result": {
-    "item": "anthemdiscs:music_disc_empty",
+    "id": "anthemdiscs:music_disc_empty",
     "count": 1
   }
 }
