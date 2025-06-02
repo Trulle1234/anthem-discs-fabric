@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBB",
+    "ADB",
+    "CBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "B": {
+      "item": "minecraft:pink_wool"
+    },
+    "C": {
+      "item": "minecraft:purple_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_puerto_rico",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAA",
+    "ADB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_wool"
+    },
+    "B": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_bermuda",
+    "count": 1
+  }
+}

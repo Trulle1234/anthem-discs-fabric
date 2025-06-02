@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "ADA",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gray_wool"
+    },
+    "B": {
+      "item": "minecraft:red_wool"
+    },
+    "C": {
+      "item": "minecraft:yellow_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_venezuela",
+    "count": 1
+  }
+}

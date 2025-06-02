@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ADA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blue_wool"
+    },
+    "B": {
+      "item": "minecraft:orange_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_barbados",
+    "count": 1
+  }
+}

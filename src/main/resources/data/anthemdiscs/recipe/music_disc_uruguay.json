@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABB",
+    "BDB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:pink_wool"
+    },
+    "B": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_uruguay",
+    "count": 1
+  }
+}

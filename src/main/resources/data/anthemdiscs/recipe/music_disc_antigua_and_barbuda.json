@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "BDB",
+    "BAB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:pink_wool"
+    },
+    "B": {
+      "item": "minecraft:red_wool"
+    },
+    "C": {
+      "item": "minecraft:black_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_antigua_and_barbuda",
+    "count": 1
+  }
+}

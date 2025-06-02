@@ -6,11 +6,15 @@
     "III"
   ],
   "key": {
-    "I": "minecraft:iron_ingot",
-    "D": "minecraft:diamond"
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
   },
   "result": {
-    "id": "anthemdiscs:music_disc_empty",
+    "item": "anthemdiscs:music_disc_empty",
     "count": 1
   }
 }

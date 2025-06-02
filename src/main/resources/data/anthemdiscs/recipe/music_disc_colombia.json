@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "BDB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_wool"
+    },
+    "B": {
+      "item": "minecraft:brown_wool"
+    },
+    "C": {
+      "item": "minecraft:yellow_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_colombia",
+    "count": 1
+  }
+}

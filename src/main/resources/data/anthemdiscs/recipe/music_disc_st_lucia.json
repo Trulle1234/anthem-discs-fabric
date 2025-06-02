@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ADA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "B": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_st_lucia",
+    "count": 1
+  }
+}

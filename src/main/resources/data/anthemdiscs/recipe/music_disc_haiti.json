@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "ADA",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gray_wool"
+    },
+    "B": {
+      "item": "minecraft:blue_wool"
+    },
+    "C": {
+      "item": "minecraft:red_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_haiti",
+    "count": 1
+  }
+}

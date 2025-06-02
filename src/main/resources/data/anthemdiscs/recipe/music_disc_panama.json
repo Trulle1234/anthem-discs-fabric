@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAF",
+    "CDA",
+    "ECB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:pink_wool"
+    },
+    "B": {
+      "item": "minecraft:white_wool"
+    },
+    "C": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "E": {
+      "item": "minecraft:black_wool"
+    },
+    "F": {
+      "item": "minecraft:red_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_panama",
+    "count": 1
+  }
+}

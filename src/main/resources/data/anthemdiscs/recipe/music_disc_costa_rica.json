@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "ADC",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:pink_wool"
+    },
+    "B": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "C": {
+      "item": "minecraft:orange_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_costa_rica",
+    "count": 1
+  }
+}

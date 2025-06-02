@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAC",
+    "ADA",
+    "CAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gray_wool"
+    },
+    "B": {
+      "item": "minecraft:pink_wool"
+    },
+    "C": {
+      "item": "minecraft:black_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_cayman_islands",
+    "count": 1
+  }
+}

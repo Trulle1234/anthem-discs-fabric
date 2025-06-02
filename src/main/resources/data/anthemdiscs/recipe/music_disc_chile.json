@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACC",
+    "EDB",
+    "FFF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blue_wool"
+    },
+    "B": {
+      "item": "minecraft:pink_wool"
+    },
+    "C": {
+      "item": "minecraft:white_wool"
+    },
+    "E": {
+      "item": "minecraft:brown_wool"
+    },
+    "F": {
+      "item": "minecraft:red_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_chile",
+    "count": 1
+  }
+}

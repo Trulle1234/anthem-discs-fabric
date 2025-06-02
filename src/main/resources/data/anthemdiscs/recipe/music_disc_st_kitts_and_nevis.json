@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACB",
+    "CDE",
+    "BEE"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cyan_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "C": {
+      "item": "minecraft:green_wool"
+    },
+    "E": {
+      "item": "minecraft:red_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_st_kitts_and_nevis",
+    "count": 1
+  }
+}

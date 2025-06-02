@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    "ADA",
+    "CBC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gray_wool"
+    },
+    "B": {
+      "item": "minecraft:orange_wool"
+    },
+    "C": {
+      "item": "minecraft:brown_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_grenada",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BDB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:green_wool"
+    },
+    "B": {
+      "item": "minecraft:lime_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_brazil",
+    "count": 1
+  }
+}

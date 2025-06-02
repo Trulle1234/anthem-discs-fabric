@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAE",
+    "ADE",
+    "CCA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gray_wool"
+    },
+    "B": {
+      "item": "minecraft:pink_wool"
+    },
+    "C": {
+      "item": "minecraft:black_wool"
+    },
+    "E": {
+      "item": "minecraft:blue_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_falkland_islands",
+    "count": 1
+  }
+}

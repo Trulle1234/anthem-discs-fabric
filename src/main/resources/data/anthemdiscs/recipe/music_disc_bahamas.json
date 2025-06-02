@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAA",
+    "BDC",
+    "BAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cyan_wool"
+    },
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "C": {
+      "item": "minecraft:yellow_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_bahamas",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAB",
+    "CDB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:pink_wool"
+    },
+    "B": {
+      "item": "minecraft:white_wool"
+    },
+    "C": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_us_virgin_islands",
+    "count": 1
+  }
+}

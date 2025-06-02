@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BDB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "B": {
+      "item": "minecraft:white_wool"
+    },
+    "D": {
+      "item": "anthemdiscs:music_disc_empty"
+    }
+  },
+  "result": {
+    "id": "anthemdiscs:music_disc_argentina",
+    "count": 1
+  }
+}
