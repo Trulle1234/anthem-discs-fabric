@@ -202,11 +202,6 @@ public class ModSounds {
         RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "romania"));
 
 
-    public static final SoundEvent RUSSIA = registerSoundEvent("russia");
-    public static final RegistryKey<JukeboxSong> RUSSIA_KEY =
-        RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "russia"));
-
-
     public static final SoundEvent SAN_MARINO = registerSoundEvent("san_marino");
     public static final RegistryKey<JukeboxSong> SAN_MARINO_KEY =
         RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(AnthemDiscs.MOD_ID, "san_marino"));

@@ -95,8 +95,6 @@ public class ModItemGroups {
 
             entries.add(ModItems.MUSIC_DISC_ROMANIA);    
 
-            entries.add(ModItems.MUSIC_DISC_RUSSIA);    
-
             entries.add(ModItems.MUSIC_DISC_SAN_MARINO);    
 
             entries.add(ModItems.MUSIC_DISC_SERBIA);    

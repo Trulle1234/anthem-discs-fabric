@@ -285,13 +285,6 @@ public class ModItems {
     );
 
 
-    public static final Item MUSIC_DISC_RUSSIA = registerItem(
-        "music_disc_russia",
-         new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
-            .jukeboxPlayable(ModSounds.RUSSIA_KEY).maxCount(1)
-    );
-
-
     public static final Item MUSIC_DISC_SAN_MARINO = registerItem(
         "music_disc_san_marino",
          new Item.Settings().rarity(net.minecraft.util.Rarity.RARE)
